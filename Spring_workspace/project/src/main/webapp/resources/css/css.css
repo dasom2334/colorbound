@@ -1,0 +1,278 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+#wrap {
+	width: 100%;
+	height: 100%;
+}
+
+#header_w {
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	background-color: #464646;
+	z-index: 100;
+	top: 0;
+	z-index: 200;
+	border-bottom: 1px solid #DDD;
+}
+
+#header {
+	width: 1000px;
+	margin: 0 auto;
+	height: 50px;
+}
+#logo {
+	float: left;
+}
+div#header h1{
+	color:#ddd;
+	
+	}
+#l_btn, #r_btn {
+	width: 100px;
+	height: 50px;
+	cursor: pointer;
+}
+
+#r_btn>i {
+	font-size: 50px;
+	text-align: center;
+	color: #aaa;
+}
+
+#r_btn, #r_btn>i {
+	float: right;
+}
+
+#r_menu_w {
+	width: 400px;
+	height: 100%;
+	background-color: #aaa;
+	position: fixed;
+	z-index: 150;
+	-ms-transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+#r_menu_w {
+	right: 0;
+	top: 0;
+	margin-right: -400px;	
+	border-left: 1px solid #DDD;
+}
+
+#r_menu_w.active{
+	margin-right: 0px;
+}
+
+#r_menu_w>ul#Thema {
+	width: 100%;
+	margin-top: 50px;
+	height: auto;
+	font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+}
+
+#r_menu_w>ul#Thema>li.dbs_h {
+	height: 50px;
+	background-color: #aaa;
+	padding-top: 23px;
+	padding-left: 20px;
+	color : #464646;
+	border-bottom: 1px solid #DDD;
+}
+
+#r_menu_w>ul#Thema>li.dbs {
+	height: 25px;
+	background-color: #eee;
+	padding-top: 3px;
+	padding-left: 50px;
+	color : #464646;
+	border-bottom: 1px solid #DDD;
+	
+}
+#r_menu_w>ul#Thema>li.dbs:hover {
+	cursor: pointer;
+	border-color: #DDD;
+	background-color : #aaa;
+	box-shadow: inset 0px 0px 5px 0px #CCC;
+}
+
+#r_menu_w>ul#Thema>li.dbs.active {
+	background-color : #aaa;
+}
+	
+
+#content_w {
+	padding-top: 50px;
+	width: 100%;
+	font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+	
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	height: auto;
+	background-color: #464646;
+}
+#content_w>#container {
+	width: 1000px;
+	margin: 0 auto;
+}
+/**
+ * Picker Container
+ */
+div#Thema_pick_colors_w {
+	width: 100%;	
+	height: 80px;
+	margin-top:10px;
+}
+
+div#Thema_pick_colors_w>#Thema_pick_colors_l, div#Thema_pick_colors_w>#Thema_pick_colors{	
+	float: left;
+}
+
+div#Thema_pick_colors_l{
+	margin-left:40px;
+}
+
+div#Thema_pick_colors_l>h2{
+	display: inline;
+	height: 80px;	
+	color: #DDD;
+	font-size: 20px;
+	float: left;
+}
+div#Thema_pick_colors_l>i {
+	display: inline;
+	font-size: 60px;
+	color: #DDD;
+	height: 80px;
+	float: left;
+}
+
+div#Thema_pick_colors {
+	width: 750px;
+	height: 80px;
+	display: block;
+	position: relative;
+	transition: all 0.2s;
+}
+
+div#Thema_pick_colors .sample {
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+	border: 1px solid #DDD;
+	position: absolute;
+	float: left;
+	transition: all 0.2s;
+}
+
+div#Thema_pick_colors .sample:hover {
+	cursor: pointer;
+	border-color: #BBB;
+	transform: scale(1.15);
+	border-radius: 3px;
+}
+
+div#Thema_pick_colors .sample[data-active='true'] {
+	border-color: #999;
+}
+
+div#Thema_pick_colors .sample[data-active='true']:after {
+	content: "";
+	position: absolute;
+	background: url('https://mdn.mozillademos.org/files/6065/arrow.png')
+		center no-repeat;
+	width: 100%;
+	height: 12px;
+	top: -12px;
+	z-index: 2;
+}
+
+div#Thema_pick_colors #add-icon {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	box-shadow: inset 0px 0px 2px 0px #DDD;
+}
+
+div#Thema_pick_colors #add-icon:hover {
+	cursor: pointer;
+	border-color: #DDD;
+	box-shadow: inset 0px 0px 5px 0px #CCC;
+}
+
+div#Thema_pick_colors #add-icon:before, div#Thema_pick_colors #add-icon:after
+	{
+	content: "";
+	position: absolute;
+	background-color: #EEE;
+	box-shadow: 0 0 1px 0 #EEE;
+}
+
+div#Thema_pick_colors #add-icon:before {
+	width: 70%;
+	height: 16%;
+	top: 42%;
+	left: 15%;
+}
+
+div#Thema_pick_colors #add-icon:after {
+	width: 16%;
+	height: 70%;
+	top: 15%;
+	left: 42%;
+}
+
+div#Thema_pick_colors #add-icon:hover:before, div#Thema_pick_colors #add-icon:hover:after
+	{
+	background-color: #DDD;
+	box-shadow: 0 0 1px 0 #DDD;
+}
+
+div#Thema_colors {
+	width: 100%;
+	height: 200px;
+	display: block;
+	overflow: auto;
+}
+
+div#Thema_colors .palette {
+	margin: 0 auto;
+	margin-left: 38px;
+}
+
+div#Thema_colors .sample {
+	width: 30px;
+	height: 30px;
+	margin: 3px;
+	position: relative;
+	border: 1px solid #DDD;
+	float: left;
+	transition: all 0.2s;
+}
+
+div#Thema_colors .sample:hover {
+	cursor: pointer;
+	border-color: #BBB;
+	transform: scale(1.15);
+	border-radius: 3px;
+}
+
+#controls .icon {
+	display: block;
+}

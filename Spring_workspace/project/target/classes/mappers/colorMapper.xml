@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.pr.mapper.colorMapper">
+
+	<select id="find_zero" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+	</select>
+
+	<select id="find_one" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE colors
+		like CONCAT('%', #{color1}, '%')
+	</select>
+
+	<select id="find_two" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%')
+	</select>
+	
+	<select id="find_three" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2}, '%') and 
+		colors like CONCAT('%', #{color3},'%')
+	</select>
+	
+	<select id="find_four" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%') and 
+		colors like CONCAT('%', #{color3},'%') and 
+		colors like CONCAT('%', #{color4},'%')
+	</select>
+	
+	<select id="find_five" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%') and 
+		colors like CONCAT('%', #{color3},'%') and 
+		colors like CONCAT('%', #{color4},'%') and 
+		colors like CONCAT('%', #{color5},'%')
+	</select>
+	
+	<select id="find_six" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%') and 
+		colors like CONCAT('%', #{color3},'%') and 
+		colors like CONCAT('%', #{color4},'%') and 
+		colors like CONCAT('%', #{color5},'%') and 
+		colors like CONCAT('%', #{color6},'%')
+	</select>
+	
+	<select id="find_seven" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%') and 
+		colors like CONCAT('%', #{color3},'%') and 
+		colors like CONCAT('%', #{color4},'%') and 
+		colors like CONCAT('%', #{color5},'%') and 
+		colors like CONCAT('%', #{color6},'%') and 
+		colors like CONCAT('%', #{color7},'%')
+	</select>
+	
+	<select id="find_eight" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%') and 
+		colors like CONCAT('%', #{color3},'%') and 
+		colors like CONCAT('%', #{color4},'%') and 
+		colors like CONCAT('%', #{color5},'%') and 
+		colors like CONCAT('%', #{color6},'%') and 
+		colors like CONCAT('%', #{color7},'%') and 
+		colors like CONCAT('%', #{color8},'%')
+	</select>
+	
+	<select id="find_nine" resultType="com.pr.domain.ColorsVO">
+		<if test="color0 == 'test'">
+			SELECT * FROM test	
+		</if>
+		<if test="color0 == 'gogh'">
+			SELECT * FROM gogh
+		</if>
+		WHERE 
+		colors like CONCAT('%', #{color1}, '%') and 
+		colors like CONCAT('%', #{color2},'%') and 
+		colors like CONCAT('%', #{color3},'%') and 
+		colors like CONCAT('%', #{color4},'%') and 
+		colors like CONCAT('%', #{color5},'%') and 
+		colors like CONCAT('%', #{color6},'%') and 
+		colors like CONCAT('%', #{color7},'%') and 
+		colors like CONCAT('%', #{color8},'%') and 
+		colors like CONCAT('%', #{color9},'%')
+	</select>
+
+</mapper>

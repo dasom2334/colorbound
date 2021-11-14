@@ -1,0 +1,9488 @@
+[
+	{
+		"R": 0,
+		"B": 186,
+		"G": 72,
+		"name": "Absolute zero"
+	},
+	{
+		"R": 76,
+		"B": 39,
+		"G": 47,
+		"name": "Acajou"
+	},
+	{
+		"R": 176,
+		"B": 26,
+		"G": 191,
+		"name": "Acid green"
+	},
+	{
+		"R": 124,
+		"B": 232,
+		"G": 185,
+		"name": "Aero"
+	},
+	{
+		"R": 201,
+		"B": 229,
+		"G": 255,
+		"name": "Aero blue"
+	},
+	{
+		"R": 178,
+		"B": 190,
+		"G": 132,
+		"name": "African violet"
+	},
+	{
+		"R": 93,
+		"B": 168,
+		"G": 138,
+		"name": "Air Force Navy(RAF)"
+	},
+	{
+		"R": 0,
+		"B": 143,
+		"G": 48,
+		"name": "Air Force blue (USAF)"
+	},
+	{
+		"R": 114,
+		"B": 193,
+		"G": 160,
+		"name": "Air superiority blue"
+	},
+	{
+		"R": 175,
+		"B": 42,
+		"G": 0,
+		"name": "Alabama crimson"
+	},
+	{
+		"R": 242,
+		"B": 230,
+		"G": 240,
+		"name": "Alabaster"
+	},
+	{
+		"R": 240,
+		"B": 255,
+		"G": 248,
+		"name": "Alice blue"
+	},
+	{
+		"R": 132,
+		"B": 2,
+		"G": 222,
+		"name": "Alien Armpit"
+	},
+	{
+		"R": 227,
+		"B": 54,
+		"G": 38,
+		"name": "Alizarin crimson"
+	},
+	{
+		"R": 196,
+		"B": 16,
+		"G": 98,
+		"name": "Alloy orange"
+	},
+	{
+		"R": 239,
+		"B": 205,
+		"G": 222,
+		"name": "Almond"
+	},
+	{
+		"R": 229,
+		"B": 80,
+		"G": 43,
+		"name": "Amaranth"
+	},
+	{
+		"R": 159,
+		"B": 104,
+		"G": 43,
+		"name": "Amaranth deep purple"
+	},
+	{
+		"R": 241,
+		"B": 187,
+		"G": 156,
+		"name": "Amaranth pink"
+	},
+	{
+		"R": 171,
+		"B": 79,
+		"G": 39,
+		"name": "Amaranth purple"
+	},
+	{
+		"R": 211,
+		"B": 45,
+		"G": 33,
+		"name": "Amaranth red"
+	},
+	{
+		"R": 59,
+		"B": 87,
+		"G": 122,
+		"name": "Amazon"
+	},
+	{
+		"R": 0,
+		"B": 176,
+		"G": 196,
+		"name": "Amazonite"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 191,
+		"name": "Amber"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 126,
+		"name": "Amber (SAE\/ECE)"
+	},
+	{
+		"R": 59,
+		"B": 109,
+		"G": 59,
+		"name": "American blue"
+	},
+	{
+		"R": 57,
+		"B": 2,
+		"G": 24,
+		"name": "American bronze"
+	},
+	{
+		"R": 128,
+		"B": 64,
+		"G": 64,
+		"name": "American brown"
+	},
+	{
+		"R": 211,
+		"B": 55,
+		"G": 175,
+		"name": "American gold"
+	},
+	{
+		"R": 52,
+		"B": 52,
+		"G": 179,
+		"name": "American green"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 139,
+		"name": "American orange"
+	},
+	{
+		"R": 255,
+		"B": 153,
+		"G": 152,
+		"name": "American pink"
+	},
+	{
+		"R": 67,
+		"B": 83,
+		"G": 28,
+		"name": "American purple"
+	},
+	{
+		"R": 179,
+		"B": 52,
+		"G": 33,
+		"name": "American red"
+	},
+	{
+		"R": 255,
+		"B": 62,
+		"G": 3,
+		"name": "American rose"
+	},
+	{
+		"R": 207,
+		"B": 207,
+		"G": 207,
+		"name": "American silver"
+	},
+	{
+		"R": 85,
+		"B": 140,
+		"G": 27,
+		"name": "American violet"
+	},
+	{
+		"R": 242,
+		"B": 0,
+		"G": 180,
+		"name": "American yellow"
+	},
+	{
+		"R": 153,
+		"B": 204,
+		"G": 102,
+		"name": "Amethyst"
+	},
+	{
+		"R": 164,
+		"B": 57,
+		"G": 198,
+		"name": "Android green"
+	},
+	{
+		"R": 242,
+		"B": 244,
+		"G": 243,
+		"name": "Anti-flash white"
+	},
+	{
+		"R": 205,
+		"B": 117,
+		"G": 149,
+		"name": "Antique brass"
+	},
+	{
+		"R": 102,
+		"B": 30,
+		"G": 93,
+		"name": "Antique bronze"
+	},
+	{
+		"R": 145,
+		"B": 131,
+		"G": 92,
+		"name": "Antique fuchsia"
+	},
+	{
+		"R": 132,
+		"B": 45,
+		"G": 27,
+		"name": "Antique ruby"
+	},
+	{
+		"R": 250,
+		"B": 215,
+		"G": 235,
+		"name": "Antique white"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 128,
+		"name": "Ao (English)"
+	},
+	{
+		"R": 102,
+		"B": 71,
+		"G": 180,
+		"name": "Apple"
+	},
+	{
+		"R": 141,
+		"B": 0,
+		"G": 182,
+		"name": "Apple Green"
+	},
+	{
+		"R": 251,
+		"B": 177,
+		"G": 206,
+		"name": "Apricot"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 255,
+		"name": "Aqua"
+	},
+	{
+		"R": 127,
+		"B": 212,
+		"G": 255,
+		"name": "Aquamarine"
+	},
+	{
+		"R": 208,
+		"B": 20,
+		"G": 255,
+		"name": "Arctic lime"
+	},
+	{
+		"R": 75,
+		"B": 32,
+		"G": 83,
+		"name": "Army green"
+	},
+	{
+		"R": 59,
+		"B": 75,
+		"G": 68,
+		"name": "Arsenic"
+	},
+	{
+		"R": 143,
+		"B": 121,
+		"G": 151,
+		"name": "Artichoke"
+	},
+	{
+		"R": 233,
+		"B": 107,
+		"G": 214,
+		"name": "Arylide yellow"
+	},
+	{
+		"R": 178,
+		"B": 181,
+		"G": 190,
+		"name": "Ash gray"
+	},
+	{
+		"R": 135,
+		"B": 107,
+		"G": 169,
+		"name": "Asparagus"
+	},
+	{
+		"R": 0,
+		"B": 108,
+		"G": 58,
+		"name": "Ateneo blue"
+	},
+	{
+		"R": 255,
+		"B": 102,
+		"G": 153,
+		"name": "Atomic tangerine"
+	},
+	{
+		"R": 165,
+		"B": 42,
+		"G": 42,
+		"name": "Auburn"
+	},
+	{
+		"R": 253,
+		"B": 0,
+		"G": 238,
+		"name": "Aureolin"
+	},
+	{
+		"R": 110,
+		"B": 128,
+		"G": 127,
+		"name": "AuroMetalSaurus"
+	},
+	{
+		"R": 86,
+		"B": 3,
+		"G": 130,
+		"name": "Avocado"
+	},
+	{
+		"R": 255,
+		"B": 82,
+		"G": 32,
+		"name": "Awesome"
+	},
+	{
+		"R": 99,
+		"B": 91,
+		"G": 119,
+		"name": "Axolotl"
+	},
+	{
+		"R": 195,
+		"B": 83,
+		"G": 153,
+		"name": "Aztec Gold"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 127,
+		"name": "Azure"
+	},
+	{
+		"R": 240,
+		"B": 255,
+		"G": 255,
+		"name": "Azure (web color)"
+	},
+	{
+		"R": 240,
+		"B": 255,
+		"G": 255,
+		"name": "Azure mist"
+	},
+	{
+		"R": 219,
+		"B": 244,
+		"G": 233,
+		"name": "Azureish white"
+	},
+	{
+		"R": 137,
+		"B": 240,
+		"G": 207,
+		"name": "Baby blue"
+	},
+	{
+		"R": 161,
+		"B": 241,
+		"G": 202,
+		"name": "Baby blue eyes"
+	},
+	{
+		"R": 244,
+		"B": 194,
+		"G": 194,
+		"name": "Baby pink"
+	},
+	{
+		"R": 254,
+		"B": 250,
+		"G": 254,
+		"name": "Baby powder"
+	},
+	{
+		"R": 255,
+		"B": 175,
+		"G": 145,
+		"name": "Baker-Miller pink"
+	},
+	{
+		"R": 33,
+		"B": 205,
+		"G": 171,
+		"name": "Ball blue"
+	},
+	{
+		"R": 250,
+		"B": 181,
+		"G": 231,
+		"name": "Banana Mania"
+	},
+	{
+		"R": 255,
+		"B": 53,
+		"G": 225,
+		"name": "Banana yellow"
+	},
+	{
+		"R": 0,
+		"B": 78,
+		"G": 106,
+		"name": "Bangladesh green"
+	},
+	{
+		"R": 224,
+		"B": 138,
+		"G": 33,
+		"name": "Barbie pink"
+	},
+	{
+		"R": 124,
+		"B": 2,
+		"G": 10,
+		"name": "Barn red"
+	},
+	{
+		"R": 29,
+		"B": 214,
+		"G": 172,
+		"name": "Battery Charged Blue"
+	},
+	{
+		"R": 132,
+		"B": 130,
+		"G": 132,
+		"name": "Battleship grey"
+	},
+	{
+		"R": 152,
+		"B": 123,
+		"G": 119,
+		"name": "Bazaar"
+	},
+	{
+		"R": 188,
+		"B": 230,
+		"G": 212,
+		"name": "Beau blue"
+	},
+	{
+		"R": 159,
+		"B": 112,
+		"G": 129,
+		"name": "Beaver"
+	},
+	{
+		"R": 242,
+		"B": 28,
+		"G": 142,
+		"name": "Beer"
+	},
+	{
+		"R": 250,
+		"B": 121,
+		"G": 110,
+		"name": "Begonia"
+	},
+	{
+		"R": 245,
+		"B": 220,
+		"G": 245,
+		"name": "Beige"
+	},
+	{
+		"R": 46,
+		"B": 148,
+		"G": 88,
+		"name": "B'dazzled blue"
+	},
+	{
+		"R": 156,
+		"B": 66,
+		"G": 37,
+		"name": "Big dip o\u2019ruby"
+	},
+	{
+		"R": 232,
+		"B": 90,
+		"G": 142,
+		"name": "Big Foot Feet"
+	},
+	{
+		"R": 255,
+		"B": 196,
+		"G": 228,
+		"name": "Bisque"
+	},
+	{
+		"R": 61,
+		"B": 31,
+		"G": 43,
+		"name": "Bistre"
+	},
+	{
+		"R": 150,
+		"B": 23,
+		"G": 113,
+		"name": "Bistre brown"
+	},
+	{
+		"R": 202,
+		"B": 13,
+		"G": 224,
+		"name": "Bitter lemon"
+	},
+	{
+		"R": 191,
+		"B": 0,
+		"G": 255,
+		"name": "Bitter lime"
+	},
+	{
+		"R": 254,
+		"B": 94,
+		"G": 111,
+		"name": "Bittersweet"
+	},
+	{
+		"R": 191,
+		"B": 81,
+		"G": 79,
+		"name": "Bittersweet shimmer"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 0,
+		"name": "Black"
+	},
+	{
+		"R": 61,
+		"B": 2,
+		"G": 12,
+		"name": "Black bean"
+	},
+	{
+		"R": 27,
+		"B": 17,
+		"G": 24,
+		"name": "Black chocolate"
+	},
+	{
+		"R": 59,
+		"B": 47,
+		"G": 47,
+		"name": "Black coffee"
+	},
+	{
+		"R": 84,
+		"B": 111,
+		"G": 98,
+		"name": "Black Coral"
+	},
+	{
+		"R": 37,
+		"B": 41,
+		"G": 53,
+		"name": "Black leather jacket"
+	},
+	{
+		"R": 59,
+		"B": 54,
+		"G": 60,
+		"name": "Black olive"
+	},
+	{
+		"R": 143,
+		"B": 115,
+		"G": 89,
+		"name": "Blackberry"
+	},
+	{
+		"R": 191,
+		"B": 178,
+		"G": 175,
+		"name": "Black Shadows"
+	},
+	{
+		"R": 255,
+		"B": 205,
+		"G": 235,
+		"name": "Blanched almond"
+	},
+	{
+		"R": 165,
+		"B": 100,
+		"G": 113,
+		"name": "Blast-off bronze"
+	},
+	{
+		"R": 49,
+		"B": 231,
+		"G": 140,
+		"name": "Bleu de France"
+	},
+	{
+		"R": 172,
+		"B": 238,
+		"G": 229,
+		"name": "Blizzard Blue"
+	},
+	{
+		"R": 250,
+		"B": 190,
+		"G": 240,
+		"name": "Blond"
+	},
+	{
+		"R": 138,
+		"B": 3,
+		"G": 3,
+		"name": "Blood"
+	},
+	{
+		"R": 209,
+		"B": 28,
+		"G": 0,
+		"name": "Blood orange"
+	},
+	{
+		"R": 102,
+		"B": 0,
+		"G": 0,
+		"name": "Blood red"
+	},
+	{
+		"R": 164,
+		"B": 19,
+		"G": 19,
+		"name": "Blood (Animal)"
+	},
+	{
+		"R": 99,
+		"B": 15,
+		"G": 15,
+		"name": "Blood (Organ)"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 0,
+		"name": "Blue"
+	},
+	{
+		"R": 31,
+		"B": 254,
+		"G": 117,
+		"name": "Blue (Crayola)"
+	},
+	{
+		"R": 0,
+		"B": 175,
+		"G": 147,
+		"name": "Blue (Munsell)"
+	},
+	{
+		"R": 0,
+		"B": 189,
+		"G": 135,
+		"name": "Blue (NCS)"
+	},
+	{
+		"R": 0,
+		"B": 168,
+		"G": 24,
+		"name": "Blue (Pantone)"
+	},
+	{
+		"R": 51,
+		"B": 153,
+		"G": 51,
+		"name": "Blue (pigment)"
+	},
+	{
+		"R": 2,
+		"B": 254,
+		"G": 71,
+		"name": "Blue (RYB)"
+	},
+	{
+		"R": 162,
+		"B": 208,
+		"G": 162,
+		"name": "Blue Bell"
+	},
+	{
+		"R": 0,
+		"B": 251,
+		"G": 185,
+		"name": "Blue Bolt"
+	},
+	{
+		"R": 0,
+		"B": 220,
+		"G": 136,
+		"name": "Blue cola"
+	},
+	{
+		"R": 102,
+		"B": 204,
+		"G": 153,
+		"name": "Blue-gray"
+	},
+	{
+		"R": 13,
+		"B": 186,
+		"G": 152,
+		"name": "Blue-green"
+	},
+	{
+		"R": 6,
+		"B": 64,
+		"G": 78,
+		"name": "Blue-green (color wheel)"
+	},
+	{
+		"R": 93,
+		"B": 236,
+		"G": 173,
+		"name": "Blue Jeans"
+	},
+	{
+		"R": 172,
+		"B": 238,
+		"G": 229,
+		"name": "Blue Lagoon"
+	},
+	{
+		"R": 85,
+		"B": 146,
+		"G": 53,
+		"name": "Blue-magenta violet"
+	},
+	{
+		"R": 18,
+		"B": 128,
+		"G": 97,
+		"name": "Blue sapphire"
+	},
+	{
+		"R": 138,
+		"B": 226,
+		"G": 43,
+		"name": "Blue-violet"
+	},
+	{
+		"R": 115,
+		"B": 189,
+		"G": 102,
+		"name": "Blue-violet (Crayola)"
+	},
+	{
+		"R": 77,
+		"B": 127,
+		"G": 26,
+		"name": "Blue-violet (color wheel)"
+	},
+	{
+		"R": 80,
+		"B": 167,
+		"G": 114,
+		"name": "Blue yonder"
+	},
+	{
+		"R": 79,
+		"B": 247,
+		"G": 134,
+		"name": "Blueberry"
+	},
+	{
+		"R": 28,
+		"B": 240,
+		"G": 28,
+		"name": "Bluebonnet"
+	},
+	{
+		"R": 222,
+		"B": 131,
+		"G": 93,
+		"name": "Blush"
+	},
+	{
+		"R": 121,
+		"B": 59,
+		"G": 68,
+		"name": "Bole"
+	},
+	{
+		"R": 0,
+		"B": 182,
+		"G": 149,
+		"name": "Bondi blue"
+	},
+	{
+		"R": 227,
+		"B": 201,
+		"G": 218,
+		"name": "Bone"
+	},
+	{
+		"R": 221,
+		"B": 106,
+		"G": 226,
+		"name": "Booger Buster"
+	},
+	{
+		"R": 204,
+		"B": 0,
+		"G": 0,
+		"name": "Boston University Red"
+	},
+	{
+		"R": 0,
+		"B": 78,
+		"G": 106,
+		"name": "Bottle green"
+	},
+	{
+		"R": 135,
+		"B": 96,
+		"G": 50,
+		"name": "Boysenberry"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 112,
+		"name": "Brandeis blue"
+	},
+	{
+		"R": 135,
+		"B": 63,
+		"G": 65,
+		"name": "Brandy"
+	},
+	{
+		"R": 181,
+		"B": 66,
+		"G": 166,
+		"name": "Brass"
+	},
+	{
+		"R": 203,
+		"B": 84,
+		"G": 65,
+		"name": "Brick red"
+	},
+	{
+		"R": 29,
+		"B": 214,
+		"G": 172,
+		"name": "Bright cerulean"
+	},
+	{
+		"R": 235,
+		"B": 240,
+		"G": 236,
+		"name": "Bright gray"
+	},
+	{
+		"R": 102,
+		"B": 0,
+		"G": 255,
+		"name": "Bright green"
+	},
+	{
+		"R": 191,
+		"B": 228,
+		"G": 148,
+		"name": "Bright lavender"
+	},
+	{
+		"R": 216,
+		"B": 239,
+		"G": 145,
+		"name": "Bright lilac"
+	},
+	{
+		"R": 195,
+		"B": 72,
+		"G": 33,
+		"name": "Bright maroon"
+	},
+	{
+		"R": 25,
+		"B": 210,
+		"G": 116,
+		"name": "Bright navy blue"
+	},
+	{
+		"R": 255,
+		"B": 127,
+		"G": 0,
+		"name": "Bright pink"
+	},
+	{
+		"R": 8,
+		"B": 222,
+		"G": 232,
+		"name": "Bright turquoise"
+	},
+	{
+		"R": 209,
+		"B": 232,
+		"G": 159,
+		"name": "Bright ube"
+	},
+	{
+		"R": 255,
+		"B": 29,
+		"G": 170,
+		"name": "Bright Yellow (Crayola)"
+	},
+	{
+		"R": 51,
+		"B": 255,
+		"G": 153,
+		"name": "Brilliant azure"
+	},
+	{
+		"R": 244,
+		"B": 255,
+		"G": 187,
+		"name": "Brilliant lavender"
+	},
+	{
+		"R": 255,
+		"B": 163,
+		"G": 85,
+		"name": "Brilliant rose"
+	},
+	{
+		"R": 251,
+		"B": 127,
+		"G": 96,
+		"name": "Brink pink"
+	},
+	{
+		"R": 0,
+		"B": 37,
+		"G": 66,
+		"name": "British racing green"
+	},
+	{
+		"R": 136,
+		"B": 11,
+		"G": 84,
+		"name": "Bronze"
+	},
+	{
+		"R": 205,
+		"B": 50,
+		"G": 127,
+		"name": "Bronze"
+	},
+	{
+		"R": 176,
+		"B": 87,
+		"G": 141,
+		"name": "Bronze (Metallic)"
+	},
+	{
+		"R": 115,
+		"B": 0,
+		"G": 112,
+		"name": "Bronze Yellow"
+	},
+	{
+		"R": 153,
+		"B": 0,
+		"G": 51,
+		"name": "Brown"
+	},
+	{
+		"R": 175,
+		"B": 62,
+		"G": 89,
+		"name": "Brown (Crayola)"
+	},
+	{
+		"R": 150,
+		"B": 0,
+		"G": 75,
+		"name": "Brown (traditional)"
+	},
+	{
+		"R": 165,
+		"B": 42,
+		"G": 42,
+		"name": "Brown (web)"
+	},
+	{
+		"R": 107,
+		"B": 35,
+		"G": 68,
+		"name": "Brown-nose"
+	},
+	{
+		"R": 175,
+		"B": 77,
+		"G": 110,
+		"name": "Brown Sugar"
+	},
+	{
+		"R": 95,
+		"B": 51,
+		"G": 25,
+		"name": "Brown Chocolate"
+	},
+	{
+		"R": 74,
+		"B": 42,
+		"G": 44,
+		"name": "Brown Coffee"
+	},
+	{
+		"R": 204,
+		"B": 102,
+		"G": 153,
+		"name": "Brown Yellow"
+	},
+	{
+		"R": 27,
+		"B": 62,
+		"G": 77,
+		"name": "Brunswick green"
+	},
+	{
+		"R": 255,
+		"B": 204,
+		"G": 193,
+		"name": "Bubble gum"
+	},
+	{
+		"R": 231,
+		"B": 255,
+		"G": 254,
+		"name": "Bubbles"
+	},
+	{
+		"R": 123,
+		"B": 97,
+		"G": 182,
+		"name": "Bud green"
+	},
+	{
+		"R": 240,
+		"B": 130,
+		"G": 220,
+		"name": "Buff"
+	},
+	{
+		"R": 72,
+		"B": 7,
+		"G": 6,
+		"name": "Bulgarian rose"
+	},
+	{
+		"R": 128,
+		"B": 32,
+		"G": 0,
+		"name": "Burgundy"
+	},
+	{
+		"R": 222,
+		"B": 135,
+		"G": 184,
+		"name": "Burlywood"
+	},
+	{
+		"R": 161,
+		"B": 116,
+		"G": 122,
+		"name": "Burnished Brown"
+	},
+	{
+		"R": 204,
+		"B": 0,
+		"G": 85,
+		"name": "Burnt orange"
+	},
+	{
+		"R": 233,
+		"B": 81,
+		"G": 116,
+		"name": "Burnt sienna"
+	},
+	{
+		"R": 138,
+		"B": 36,
+		"G": 51,
+		"name": "Burnt umber"
+	},
+	{
+		"R": 36,
+		"B": 237,
+		"G": 160,
+		"name": "Button Blue"
+	},
+	{
+		"R": 189,
+		"B": 164,
+		"G": 51,
+		"name": "Byzantine"
+	},
+	{
+		"R": 112,
+		"B": 99,
+		"G": 41,
+		"name": "Byzantium"
+	},
+	{
+		"R": 83,
+		"B": 114,
+		"G": 104,
+		"name": "Cadet"
+	},
+	{
+		"R": 95,
+		"B": 160,
+		"G": 158,
+		"name": "Cadet blue"
+	},
+	{
+		"R": 169,
+		"B": 195,
+		"G": 178,
+		"name": "Cadet blue (Crayola)"
+	},
+	{
+		"R": 145,
+		"B": 176,
+		"G": 163,
+		"name": "Cadet grey"
+	},
+	{
+		"R": 10,
+		"B": 149,
+		"G": 17,
+		"name": "Cadmium blue"
+	},
+	{
+		"R": 0,
+		"B": 60,
+		"G": 107,
+		"name": "Cadmium green"
+	},
+	{
+		"R": 237,
+		"B": 45,
+		"G": 135,
+		"name": "Cadmium orange"
+	},
+	{
+		"R": 182,
+		"B": 38,
+		"G": 12,
+		"name": "Cadmium Purple"
+	},
+	{
+		"R": 227,
+		"B": 34,
+		"G": 0,
+		"name": "Cadmium red"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 246,
+		"name": "Cadmium yellow"
+	},
+	{
+		"R": 127,
+		"B": 152,
+		"G": 62,
+		"name": "Cadmium violet"
+	},
+	{
+		"R": 166,
+		"B": 91,
+		"G": 123,
+		"name": "Café au lait"
+	},
+	{
+		"R": 75,
+		"B": 33,
+		"G": 54,
+		"name": "Café noir"
+	},
+	{
+		"R": 30,
+		"B": 43,
+		"G": 77,
+		"name": "Cal Poly Pomona green"
+	},
+	{
+		"R": 252,
+		"B": 164,
+		"G": 255,
+		"name": "Calamansi"
+	},
+	{
+		"R": 163,
+		"B": 173,
+		"G": 193,
+		"name": "Cambridge Blue"
+	},
+	{
+		"R": 193,
+		"B": 107,
+		"G": 154,
+		"name": "Camel"
+	},
+	{
+		"R": 239,
+		"B": 204,
+		"G": 187,
+		"name": "Cameo pink"
+	},
+	{
+		"R": 120,
+		"B": 107,
+		"G": 134,
+		"name": "Camouflage green"
+	},
+	{
+		"R": 255,
+		"B": 153,
+		"G": 255,
+		"name": "Canary"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 239,
+		"name": "Canary yellow"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 8,
+		"name": "Candy apple red"
+	},
+	{
+		"R": 228,
+		"B": 122,
+		"G": 113,
+		"name": "Candy pink"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 191,
+		"name": "Capri"
+	},
+	{
+		"R": 89,
+		"B": 32,
+		"G": 39,
+		"name": "Caput mortuum"
+	},
+	{
+		"R": 255,
+		"B": 154,
+		"G": 213,
+		"name": "Caramel"
+	},
+	{
+		"R": 196,
+		"B": 58,
+		"G": 30,
+		"name": "Cardinal"
+	},
+	{
+		"R": 0,
+		"B": 153,
+		"G": 204,
+		"name": "Caribbean green"
+	},
+	{
+		"R": 150,
+		"B": 24,
+		"G": 0,
+		"name": "Carmine"
+	},
+	{
+		"R": 215,
+		"B": 64,
+		"G": 0,
+		"name": "Carmine (M&P)"
+	},
+	{
+		"R": 235,
+		"B": 66,
+		"G": 76,
+		"name": "Carmine pink"
+	},
+	{
+		"R": 255,
+		"B": 56,
+		"G": 0,
+		"name": "Carmine red"
+	},
+	{
+		"R": 255,
+		"B": 201,
+		"G": 166,
+		"name": "Carnation pink"
+	},
+	{
+		"R": 179,
+		"B": 27,
+		"G": 27,
+		"name": "Carnelian"
+	},
+	{
+		"R": 86,
+		"B": 211,
+		"G": 160,
+		"name": "Carolina blue"
+	},
+	{
+		"R": 237,
+		"B": 33,
+		"G": 145,
+		"name": "Carrot orange"
+	},
+	{
+		"R": 0,
+		"B": 63,
+		"G": 86,
+		"name": "Castleton green"
+	},
+	{
+		"R": 6,
+		"B": 120,
+		"G": 42,
+		"name": "Catalina blue"
+	},
+	{
+		"R": 112,
+		"B": 66,
+		"G": 54,
+		"name": "Catawba"
+	},
+	{
+		"R": 201,
+		"B": 73,
+		"G": 90,
+		"name": "Cedar Chest"
+	},
+	{
+		"R": 146,
+		"B": 207,
+		"G": 161,
+		"name": "Ceil"
+	},
+	{
+		"R": 172,
+		"B": 175,
+		"G": 225,
+		"name": "Celadon"
+	},
+	{
+		"R": 0,
+		"B": 167,
+		"G": 123,
+		"name": "Celadon blue"
+	},
+	{
+		"R": 47,
+		"B": 124,
+		"G": 132,
+		"name": "Celadon green"
+	},
+	{
+		"R": 178,
+		"B": 255,
+		"G": 255,
+		"name": "Celeste"
+	},
+	{
+		"R": 73,
+		"B": 208,
+		"G": 151,
+		"name": "Celestial blue"
+	},
+	{
+		"R": 36,
+		"B": 206,
+		"G": 107,
+		"name": "Celtic Blue"
+	},
+	{
+		"R": 222,
+		"B": 99,
+		"G": 49,
+		"name": "Cerise"
+	},
+	{
+		"R": 236,
+		"B": 131,
+		"G": 59,
+		"name": "Cerise pink"
+	},
+	{
+		"R": 0,
+		"B": 167,
+		"G": 123,
+		"name": "Cerulean"
+	},
+	{
+		"R": 42,
+		"B": 190,
+		"G": 82,
+		"name": "Cerulean blue"
+	},
+	{
+		"R": 0,
+		"B": 64,
+		"G": 20,
+		"name": "Cetacean blue"
+	},
+	{
+		"R": 109,
+		"B": 195,
+		"G": 155,
+		"name": "Cerulean frost"
+	},
+	{
+		"R": 29,
+		"B": 214,
+		"G": 172,
+		"name": "Cerulean (Crayola)"
+	},
+	{
+		"R": 0,
+		"B": 165,
+		"G": 122,
+		"name": "CG Blue"
+	},
+	{
+		"R": 224,
+		"B": 49,
+		"G": 60,
+		"name": "CG Red"
+	},
+	{
+		"R": 160,
+		"B": 90,
+		"G": 120,
+		"name": "Chamoisee"
+	},
+	{
+		"R": 247,
+		"B": 206,
+		"G": 231,
+		"name": "Champagne"
+	},
+	{
+		"R": 241,
+		"B": 207,
+		"G": 221,
+		"name": "Champagne pink"
+	},
+	{
+		"R": 54,
+		"B": 79,
+		"G": 69,
+		"name": "Charcoal"
+	},
+	{
+		"R": 35,
+		"B": 43,
+		"G": 43,
+		"name": "Charleston green"
+	},
+	{
+		"R": 208,
+		"B": 139,
+		"G": 116,
+		"name": "Charm"
+	},
+	{
+		"R": 230,
+		"B": 172,
+		"G": 143,
+		"name": "Charm pink"
+	},
+	{
+		"R": 223,
+		"B": 0,
+		"G": 255,
+		"name": "Chartreuse (traditional)"
+	},
+	{
+		"R": 127,
+		"B": 0,
+		"G": 255,
+		"name": "Chartreuse (web)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 166,
+		"name": "Cheese"
+	},
+	{
+		"R": 222,
+		"B": 99,
+		"G": 49,
+		"name": "Cherry"
+	},
+	{
+		"R": 255,
+		"B": 197,
+		"G": 183,
+		"name": "Cherry blossom pink"
+	},
+	{
+		"R": 149,
+		"B": 53,
+		"G": 69,
+		"name": "Chestnut"
+	},
+	{
+		"R": 222,
+		"B": 161,
+		"G": 111,
+		"name": "China pink"
+	},
+	{
+		"R": 168,
+		"B": 110,
+		"G": 81,
+		"name": "China rose"
+	},
+	{
+		"R": 20,
+		"B": 20,
+		"G": 20,
+		"name": "Chinese black"
+	},
+	{
+		"R": 54,
+		"B": 148,
+		"G": 81,
+		"name": "Chinese blue"
+	},
+	{
+		"R": 205,
+		"B": 50,
+		"G": 128,
+		"name": "Chinese bronze"
+	},
+	{
+		"R": 171,
+		"B": 31,
+		"G": 56,
+		"name": "Chinese brown"
+	},
+	{
+		"R": 208,
+		"B": 97,
+		"G": 219,
+		"name": "Chinese green"
+	},
+	{
+		"R": 204,
+		"B": 0,
+		"G": 153,
+		"name": "Chinese gold"
+	},
+	{
+		"R": 243,
+		"B": 66,
+		"G": 112,
+		"name": "Chinese orange"
+	},
+	{
+		"R": 222,
+		"B": 161,
+		"G": 112,
+		"name": "Chinese pink"
+	},
+	{
+		"R": 114,
+		"B": 152,
+		"G": 11,
+		"name": "Chinese purple"
+	},
+	{
+		"R": 205,
+		"B": 30,
+		"G": 7,
+		"name": "Chinese red"
+	},
+	{
+		"R": 170,
+		"B": 30,
+		"G": 56,
+		"name": "Chinese red"
+	},
+	{
+		"R": 204,
+		"B": 204,
+		"G": 204,
+		"name": "Chinese silver"
+	},
+	{
+		"R": 133,
+		"B": 136,
+		"G": 96,
+		"name": "Chinese violet"
+	},
+	{
+		"R": 226,
+		"B": 222,
+		"G": 229,
+		"name": "Chinese white"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 178,
+		"name": "Chinese yellow"
+	},
+	{
+		"R": 74,
+		"B": 0,
+		"G": 255,
+		"name": "Chlorophyll green"
+	},
+	{
+		"R": 63,
+		"B": 15,
+		"G": 0,
+		"name": "Chocolate Brown"
+	},
+	{
+		"R": 88,
+		"B": 26,
+		"G": 17,
+		"name": "Chocolate Cosmos"
+	},
+	{
+		"R": 60,
+		"B": 33,
+		"G": 20,
+		"name": "Chocolate Kisses"
+	},
+	{
+		"R": 123,
+		"B": 0,
+		"G": 63,
+		"name": "Chocolate (traditional)"
+	},
+	{
+		"R": 210,
+		"B": 30,
+		"G": 105,
+		"name": "Chocolate (web)"
+	},
+	{
+		"R": 42,
+		"B": 189,
+		"G": 143,
+		"name": "Christmas blue"
+	},
+	{
+		"R": 54,
+		"B": 148,
+		"G": 81,
+		"name": "Christmas blue"
+	},
+	{
+		"R": 93,
+		"B": 44,
+		"G": 43,
+		"name": "Christmas brown"
+	},
+	{
+		"R": 76,
+		"B": 2,
+		"G": 31,
+		"name": "Christmas brown"
+	},
+	{
+		"R": 60,
+		"B": 13,
+		"G": 141,
+		"name": "Christmas green"
+	},
+	{
+		"R": 0,
+		"B": 2,
+		"G": 117,
+		"name": "Christmas green"
+	},
+	{
+		"R": 202,
+		"B": 6,
+		"G": 169,
+		"name": "Christmas gold"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 102,
+		"name": "Christmas orange"
+	},
+	{
+		"R": 213,
+		"B": 43,
+		"G": 108,
+		"name": "Christmas orange"
+	},
+	{
+		"R": 255,
+		"B": 203,
+		"G": 204,
+		"name": "Christmas pink"
+	},
+	{
+		"R": 227,
+		"B": 133,
+		"G": 66,
+		"name": "Christmas pink"
+	},
+	{
+		"R": 102,
+		"B": 152,
+		"G": 51,
+		"name": "Christmas purple"
+	},
+	{
+		"R": 77,
+		"B": 75,
+		"G": 8,
+		"name": "Christmas purple"
+	},
+	{
+		"R": 170,
+		"B": 20,
+		"G": 1,
+		"name": "Christmas red"
+	},
+	{
+		"R": 176,
+		"B": 46,
+		"G": 27,
+		"name": "Christmas red"
+	},
+	{
+		"R": 225,
+		"B": 224,
+		"G": 223,
+		"name": "Christmas silver"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 204,
+		"name": "Christmas yellow"
+	},
+	{
+		"R": 254,
+		"B": 0,
+		"G": 242,
+		"name": "Christmas yellow"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 167,
+		"name": "Chrome yellow"
+	},
+	{
+		"R": 152,
+		"B": 123,
+		"G": 129,
+		"name": "Cinereous"
+	},
+	{
+		"R": 227,
+		"B": 52,
+		"G": 66,
+		"name": "Cinnabar"
+	},
+	{
+		"R": 210,
+		"B": 30,
+		"G": 105,
+		"name": "Cinnamon[citation needed]"
+	},
+	{
+		"R": 205,
+		"B": 126,
+		"G": 96,
+		"name": "Cinnamon Satin"
+	},
+	{
+		"R": 228,
+		"B": 10,
+		"G": 208,
+		"name": "Citrine"
+	},
+	{
+		"R": 147,
+		"B": 9,
+		"G": 55,
+		"name": "Citrine Brown"
+	},
+	{
+		"R": 159,
+		"B": 31,
+		"G": 169,
+		"name": "Citron"
+	},
+	{
+		"R": 127,
+		"B": 52,
+		"G": 23,
+		"name": "Claret"
+	},
+	{
+		"R": 251,
+		"B": 231,
+		"G": 204,
+		"name": "Classic rose"
+	},
+	{
+		"R": 0,
+		"B": 171,
+		"G": 71,
+		"name": "Cobalt Blue"
+	},
+	{
+		"R": 210,
+		"B": 30,
+		"G": 105,
+		"name": "Cocoa brown"
+	},
+	{
+		"R": 150,
+		"B": 62,
+		"G": 90,
+		"name": "Coconut"
+	},
+	{
+		"R": 111,
+		"B": 55,
+		"G": 78,
+		"name": "Coffee"
+	},
+	{
+		"R": 60,
+		"B": 36,
+		"G": 48,
+		"name": "Cola"
+	},
+	{
+		"R": 196,
+		"B": 226,
+		"G": 216,
+		"name": "Columbia Blue"
+	},
+	{
+		"R": 255,
+		"B": 204,
+		"G": 255,
+		"name": "Conditioner"
+	},
+	{
+		"R": 248,
+		"B": 121,
+		"G": 131,
+		"name": "Congo pink"
+	},
+	{
+		"R": 0,
+		"B": 99,
+		"G": 46,
+		"name": "Cool Black"
+	},
+	{
+		"R": 140,
+		"B": 172,
+		"G": 146,
+		"name": "Cool grey"
+	},
+	{
+		"R": 238,
+		"B": 177,
+		"G": 224,
+		"name": "Cookies and cream"
+	},
+	{
+		"R": 184,
+		"B": 51,
+		"G": 115,
+		"name": "Copper"
+	},
+	{
+		"R": 218,
+		"B": 103,
+		"G": 138,
+		"name": "Copper (Crayola)"
+	},
+	{
+		"R": 173,
+		"B": 105,
+		"G": 111,
+		"name": "Copper penny"
+	},
+	{
+		"R": 203,
+		"B": 81,
+		"G": 109,
+		"name": "Copper red"
+	},
+	{
+		"R": 153,
+		"B": 102,
+		"G": 102,
+		"name": "Copper rose"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 56,
+		"name": "Coquelicot"
+	},
+	{
+		"R": 255,
+		"B": 80,
+		"G": 127,
+		"name": "Coral"
+	},
+	{
+		"R": 248,
+		"B": 121,
+		"G": 131,
+		"name": "Coral pink"
+	},
+	{
+		"R": 255,
+		"B": 64,
+		"G": 64,
+		"name": "Coral red"
+	},
+	{
+		"R": 253,
+		"B": 110,
+		"G": 124,
+		"name": "Coral Reef"
+	},
+	{
+		"R": 137,
+		"B": 69,
+		"G": 63,
+		"name": "Cordovan"
+	},
+	{
+		"R": 251,
+		"B": 93,
+		"G": 236,
+		"name": "Corn"
+	},
+	{
+		"R": 179,
+		"B": 27,
+		"G": 27,
+		"name": "Cornell Red"
+	},
+	{
+		"R": 100,
+		"B": 237,
+		"G": 149,
+		"name": "Cornflower blue"
+	},
+	{
+		"R": 147,
+		"B": 234,
+		"G": 204,
+		"name": "Cornflower"
+	},
+	{
+		"R": 255,
+		"B": 220,
+		"G": 248,
+		"name": "Cornsilk"
+	},
+	{
+		"R": 46,
+		"B": 136,
+		"G": 45,
+		"name": "Cosmic Cobalt"
+	},
+	{
+		"R": 255,
+		"B": 231,
+		"G": 248,
+		"name": "Cosmic latte"
+	},
+	{
+		"R": 129,
+		"B": 60,
+		"G": 97,
+		"name": "Coyote brown"
+	},
+	{
+		"R": 255,
+		"B": 217,
+		"G": 188,
+		"name": "Cotton candy"
+	},
+	{
+		"R": 255,
+		"B": 208,
+		"G": 253,
+		"name": "Cream"
+	},
+	{
+		"R": 220,
+		"B": 60,
+		"G": 20,
+		"name": "Crimson"
+	},
+	{
+		"R": 190,
+		"B": 50,
+		"G": 0,
+		"name": "Crimson glory"
+	},
+	{
+		"R": 153,
+		"B": 0,
+		"G": 0,
+		"name": "Crimson red"
+	},
+	{
+		"R": 167,
+		"B": 222,
+		"G": 216,
+		"name": "Crystal"
+	},
+	{
+		"R": 104,
+		"B": 176,
+		"G": 160,
+		"name": "Crystal blue"
+	},
+	{
+		"R": 245,
+		"B": 245,
+		"G": 245,
+		"name": "Cultured"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 255,
+		"name": "Cyan"
+	},
+	{
+		"R": 78,
+		"B": 180,
+		"G": 130,
+		"name": "Cyan azure"
+	},
+	{
+		"R": 70,
+		"B": 191,
+		"G": 130,
+		"name": "Cyan-blue azure"
+	},
+	{
+		"R": 40,
+		"B": 156,
+		"G": 88,
+		"name": "Cyan cobalt blue"
+	},
+	{
+		"R": 24,
+		"B": 194,
+		"G": 139,
+		"name": "Cyan cornflower blue"
+	},
+	{
+		"R": 0,
+		"B": 235,
+		"G": 183,
+		"name": "Cyan (process)"
+	},
+	{
+		"R": 88,
+		"B": 124,
+		"G": 66,
+		"name": "Cyber grape"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 211,
+		"name": "Cyber yellow"
+	},
+	{
+		"R": 245,
+		"B": 161,
+		"G": 111,
+		"name": "Cyclamen"
+	},
+	{
+		"R": 255,
+		"B": 49,
+		"G": 255,
+		"name": "Daffodil"
+	},
+	{
+		"R": 240,
+		"B": 48,
+		"G": 225,
+		"name": "Dandelion"
+	},
+	{
+		"R": 253,
+		"B": 109,
+		"G": 219,
+		"name": "Dandelion (Crayola)"
+	},
+	{
+		"R": 0,
+		"B": 139,
+		"G": 0,
+		"name": "Dark blue"
+	},
+	{
+		"R": 102,
+		"B": 153,
+		"G": 102,
+		"name": "Dark blue-gray"
+	},
+	{
+		"R": 128,
+		"B": 0,
+		"G": 74,
+		"name": "Dark bronze"
+	},
+	{
+		"R": 81,
+		"B": 0,
+		"G": 65,
+		"name": "Dark bronze (Coin)"
+	},
+	{
+		"R": 101,
+		"B": 33,
+		"G": 67,
+		"name": "Dark brown"
+	},
+	{
+		"R": 136,
+		"B": 78,
+		"G": 101,
+		"name": "Dark brown-tangelo"
+	},
+	{
+		"R": 93,
+		"B": 84,
+		"G": 57,
+		"name": "Dark byzantium"
+	},
+	{
+		"R": 164,
+		"B": 0,
+		"G": 0,
+		"name": "Dark candy apple red"
+	},
+	{
+		"R": 8,
+		"B": 126,
+		"G": 69,
+		"name": "Dark cerulean"
+	},
+	{
+		"R": 51,
+		"B": 51,
+		"G": 51,
+		"name": "Dark charcoal"
+	},
+	{
+		"R": 152,
+		"B": 96,
+		"G": 105,
+		"name": "Dark chestnut"
+	},
+	{
+		"R": 73,
+		"B": 6,
+		"G": 2,
+		"name": "Dark chocolate"
+	},
+	{
+		"R": 60,
+		"B": 33,
+		"G": 19,
+		"name": "Dark chocolate (Hershey's)"
+	},
+	{
+		"R": 38,
+		"B": 139,
+		"G": 66,
+		"name": "Dark cornflower blue"
+	},
+	{
+		"R": 205,
+		"B": 69,
+		"G": 91,
+		"name": "Dark coral"
+	},
+	{
+		"R": 0,
+		"B": 139,
+		"G": 139,
+		"name": "Dark cyan"
+	},
+	{
+		"R": 83,
+		"B": 120,
+		"G": 104,
+		"name": "Dark electric blue"
+	},
+	{
+		"R": 170,
+		"B": 57,
+		"G": 108,
+		"name": "Dark gold"
+	},
+	{
+		"R": 184,
+		"B": 11,
+		"G": 134,
+		"name": "Dark goldenrod"
+	},
+	{
+		"R": 169,
+		"B": 169,
+		"G": 169,
+		"name": "Dark gray (X11)"
+	},
+	{
+		"R": 1,
+		"B": 32,
+		"G": 50,
+		"name": "Dark green"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 100,
+		"name": "Dark green (X11)"
+	},
+	{
+		"R": 31,
+		"B": 42,
+		"G": 38,
+		"name": "Dark gunmetal"
+	},
+	{
+		"R": 0,
+		"B": 106,
+		"G": 65,
+		"name": "Dark imperial blue"
+	},
+	{
+		"R": 0,
+		"B": 126,
+		"G": 20,
+		"name": "Dark imperial blue"
+	},
+	{
+		"R": 26,
+		"B": 33,
+		"G": 36,
+		"name": "Dark jungle green"
+	},
+	{
+		"R": 189,
+		"B": 107,
+		"G": 183,
+		"name": "Dark khaki"
+	},
+	{
+		"R": 72,
+		"B": 50,
+		"G": 60,
+		"name": "Dark lava"
+	},
+	{
+		"R": 115,
+		"B": 150,
+		"G": 79,
+		"name": "Dark lavender"
+	},
+	{
+		"R": 139,
+		"B": 27,
+		"G": 190,
+		"name": "Dark lemon lime"
+	},
+	{
+		"R": 83,
+		"B": 79,
+		"G": 75,
+		"name": "Dark liver"
+	},
+	{
+		"R": 84,
+		"B": 55,
+		"G": 61,
+		"name": "Dark liver (horses)"
+	},
+	{
+		"R": 139,
+		"B": 139,
+		"G": 0,
+		"name": "Dark magenta"
+	},
+	{
+		"R": 169,
+		"B": 169,
+		"G": 169,
+		"name": "Dark medium gray"
+	},
+	{
+		"R": 0,
+		"B": 102,
+		"G": 51,
+		"name": "Dark midnight blue"
+	},
+	{
+		"R": 74,
+		"B": 35,
+		"G": 93,
+		"name": "Dark moss green"
+	},
+	{
+		"R": 85,
+		"B": 47,
+		"G": 107,
+		"name": "Dark olive green"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 140,
+		"name": "Dark orange"
+	},
+	{
+		"R": 153,
+		"B": 204,
+		"G": 50,
+		"name": "Dark orchid"
+	},
+	{
+		"R": 119,
+		"B": 203,
+		"G": 158,
+		"name": "Dark pastel blue"
+	},
+	{
+		"R": 3,
+		"B": 60,
+		"G": 192,
+		"name": "Dark pastel green"
+	},
+	{
+		"R": 150,
+		"B": 214,
+		"G": 111,
+		"name": "Dark pastel purple"
+	},
+	{
+		"R": 194,
+		"B": 34,
+		"G": 59,
+		"name": "Dark pastel red"
+	},
+	{
+		"R": 231,
+		"B": 128,
+		"G": 84,
+		"name": "Dark pink"
+	},
+	{
+		"R": 0,
+		"B": 153,
+		"G": 51,
+		"name": "Dark powder blue"
+	},
+	{
+		"R": 79,
+		"B": 60,
+		"G": 58,
+		"name": "Dark puce"
+	},
+	{
+		"R": 48,
+		"B": 52,
+		"G": 25,
+		"name": "Dark purple"
+	},
+	{
+		"R": 135,
+		"B": 87,
+		"G": 38,
+		"name": "Dark raspberry"
+	},
+	{
+		"R": 139,
+		"B": 0,
+		"G": 0,
+		"name": "Dark red"
+	},
+	{
+		"R": 233,
+		"B": 122,
+		"G": 150,
+		"name": "Dark salmon"
+	},
+	{
+		"R": 86,
+		"B": 25,
+		"G": 3,
+		"name": "Dark scarlet"
+	},
+	{
+		"R": 143,
+		"B": 143,
+		"G": 188,
+		"name": "Dark sea green"
+	},
+	{
+		"R": 60,
+		"B": 20,
+		"G": 20,
+		"name": "Dark sienna"
+	},
+	{
+		"R": 113,
+		"B": 110,
+		"G": 112,
+		"name": "Dark silver"
+	},
+	{
+		"R": 140,
+		"B": 214,
+		"G": 190,
+		"name": "Dark sky blue"
+	},
+	{
+		"R": 72,
+		"B": 139,
+		"G": 61,
+		"name": "Dark slate blue"
+	},
+	{
+		"R": 47,
+		"B": 79,
+		"G": 79,
+		"name": "Dark slate gray"
+	},
+	{
+		"R": 23,
+		"B": 69,
+		"G": 114,
+		"name": "Dark spring green"
+	},
+	{
+		"R": 145,
+		"B": 81,
+		"G": 129,
+		"name": "Dark tan"
+	},
+	{
+		"R": 255,
+		"B": 18,
+		"G": 168,
+		"name": "Dark tangerine"
+	},
+	{
+		"R": 72,
+		"B": 50,
+		"G": 60,
+		"name": "Dark taupe"
+	},
+	{
+		"R": 204,
+		"B": 92,
+		"G": 78,
+		"name": "Dark terra cotta"
+	},
+	{
+		"R": 0,
+		"B": 209,
+		"G": 206,
+		"name": "Dark turquoise"
+	},
+	{
+		"R": 209,
+		"B": 168,
+		"G": 190,
+		"name": "Dark vanilla"
+	},
+	{
+		"R": 148,
+		"B": 211,
+		"G": 0,
+		"name": "Dark violet"
+	},
+	{
+		"R": 155,
+		"B": 12,
+		"G": 135,
+		"name": "Dark yellow"
+	},
+	{
+		"R": 0,
+		"B": 60,
+		"G": 112,
+		"name": "Dartmouth green"
+	},
+	{
+		"R": 85,
+		"B": 85,
+		"G": 85,
+		"name": "Davy's grey"
+	},
+	{
+		"R": 215,
+		"B": 83,
+		"G": 10,
+		"name": "Debian red"
+	},
+	{
+		"R": 156,
+		"B": 164,
+		"G": 138,
+		"name": "Deep amethyst"
+	},
+	{
+		"R": 64,
+		"B": 109,
+		"G": 130,
+		"name": "Deep aquamarine"
+	},
+	{
+		"R": 169,
+		"B": 62,
+		"G": 32,
+		"name": "Deep carmine"
+	},
+	{
+		"R": 239,
+		"B": 56,
+		"G": 48,
+		"name": "Deep carmine pink"
+	},
+	{
+		"R": 233,
+		"B": 44,
+		"G": 105,
+		"name": "Deep carrot orange"
+	},
+	{
+		"R": 218,
+		"B": 135,
+		"G": 50,
+		"name": "Deep cerise"
+	},
+	{
+		"R": 250,
+		"B": 165,
+		"G": 214,
+		"name": "Deep champagne"
+	},
+	{
+		"R": 185,
+		"B": 72,
+		"G": 78,
+		"name": "Deep chestnut"
+	},
+	{
+		"R": 112,
+		"B": 65,
+		"G": 66,
+		"name": "Deep coffee"
+	},
+	{
+		"R": 193,
+		"B": 193,
+		"G": 84,
+		"name": "Deep fuchsia"
+	},
+	{
+		"R": 5,
+		"B": 8,
+		"G": 102,
+		"name": "Deep Green"
+	},
+	{
+		"R": 14,
+		"B": 97,
+		"G": 124,
+		"name": "Deep green-cyan turquoise"
+	},
+	{
+		"R": 0,
+		"B": 73,
+		"G": 75,
+		"name": "Deep jungle green"
+	},
+	{
+		"R": 51,
+		"B": 102,
+		"G": 51,
+		"name": "Deep koamaru"
+	},
+	{
+		"R": 245,
+		"B": 26,
+		"G": 199,
+		"name": "Deep lemon"
+	},
+	{
+		"R": 153,
+		"B": 187,
+		"G": 85,
+		"name": "Deep lilac"
+	},
+	{
+		"R": 204,
+		"B": 204,
+		"G": 0,
+		"name": "Deep magenta"
+	},
+	{
+		"R": 130,
+		"B": 0,
+		"G": 0,
+		"name": "Deep maroon"
+	},
+	{
+		"R": 212,
+		"B": 212,
+		"G": 115,
+		"name": "Deep mauve"
+	},
+	{
+		"R": 53,
+		"B": 59,
+		"G": 94,
+		"name": "Deep moss green"
+	},
+	{
+		"R": 255,
+		"B": 164,
+		"G": 203,
+		"name": "Deep peach"
+	},
+	{
+		"R": 255,
+		"B": 147,
+		"G": 20,
+		"name": "Deep pink"
+	},
+	{
+		"R": 169,
+		"B": 104,
+		"G": 92,
+		"name": "Deep puce"
+	},
+	{
+		"R": 133,
+		"B": 1,
+		"G": 1,
+		"name": "Deep Red"
+	},
+	{
+		"R": 132,
+		"B": 91,
+		"G": 63,
+		"name": "Deep ruby"
+	},
+	{
+		"R": 255,
+		"B": 51,
+		"G": 153,
+		"name": "Deep saffron"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 191,
+		"name": "Deep sky blue"
+	},
+	{
+		"R": 74,
+		"B": 108,
+		"G": 100,
+		"name": "Deep Space Sparkle"
+	},
+	{
+		"R": 85,
+		"B": 47,
+		"G": 107,
+		"name": "Deep spring bud"
+	},
+	{
+		"R": 126,
+		"B": 96,
+		"G": 94,
+		"name": "Deep Taupe"
+	},
+	{
+		"R": 102,
+		"B": 77,
+		"G": 66,
+		"name": "Deep Tuscan red"
+	},
+	{
+		"R": 51,
+		"B": 102,
+		"G": 0,
+		"name": "Deep violet"
+	},
+	{
+		"R": 186,
+		"B": 89,
+		"G": 135,
+		"name": "Deer"
+	},
+	{
+		"R": 21,
+		"B": 189,
+		"G": 96,
+		"name": "Denim"
+	},
+	{
+		"R": 34,
+		"B": 182,
+		"G": 67,
+		"name": "Denim Blue"
+	},
+	{
+		"R": 102,
+		"B": 153,
+		"G": 153,
+		"name": "Desaturated cyan"
+	},
+	{
+		"R": 193,
+		"B": 107,
+		"G": 154,
+		"name": "Desert"
+	},
+	{
+		"R": 237,
+		"B": 175,
+		"G": 201,
+		"name": "Desert sand"
+	},
+	{
+		"R": 234,
+		"B": 83,
+		"G": 60,
+		"name": "Desire"
+	},
+	{
+		"R": 185,
+		"B": 255,
+		"G": 242,
+		"name": "Diamond"
+	},
+	{
+		"R": 105,
+		"B": 105,
+		"G": 105,
+		"name": "Dim gray"
+	},
+	{
+		"R": 197,
+		"B": 81,
+		"G": 49,
+		"name": "Dingy Dungeon"
+	},
+	{
+		"R": 155,
+		"B": 83,
+		"G": 118,
+		"name": "Dirt"
+	},
+	{
+		"R": 181,
+		"B": 30,
+		"G": 101,
+		"name": "Dirty brown"
+	},
+	{
+		"R": 232,
+		"B": 201,
+		"G": 228,
+		"name": "Dirty white"
+	},
+	{
+		"R": 30,
+		"B": 255,
+		"G": 144,
+		"name": "Dodger blue"
+	},
+	{
+		"R": 254,
+		"B": 91,
+		"G": 246,
+		"name": "Dodie yellow"
+	},
+	{
+		"R": 215,
+		"B": 104,
+		"G": 24,
+		"name": "Dogwood rose"
+	},
+	{
+		"R": 133,
+		"B": 101,
+		"G": 187,
+		"name": "Dollar bill"
+	},
+	{
+		"R": 130,
+		"B": 132,
+		"G": 142,
+		"name": "Dolphin Gray"
+	},
+	{
+		"R": 102,
+		"B": 40,
+		"G": 76,
+		"name": "Donkey brown"
+	},
+	{
+		"R": 150,
+		"B": 23,
+		"G": 113,
+		"name": "Drab"
+	},
+	{
+		"R": 0,
+		"B": 156,
+		"G": 0,
+		"name": "Duke blue"
+	},
+	{
+		"R": 229,
+		"B": 201,
+		"G": 204,
+		"name": "Dust storm"
+	},
+	{
+		"R": 239,
+		"B": 187,
+		"G": 223,
+		"name": "Dutch white"
+	},
+	{
+		"R": 225,
+		"B": 95,
+		"G": 169,
+		"name": "Earth yellow"
+	},
+	{
+		"R": 85,
+		"B": 80,
+		"G": 93,
+		"name": "Ebony"
+	},
+	{
+		"R": 194,
+		"B": 128,
+		"G": 178,
+		"name": "Ecru"
+	},
+	{
+		"R": 27,
+		"B": 27,
+		"G": 27,
+		"name": "Eerie black"
+	},
+	{
+		"R": 97,
+		"B": 81,
+		"G": 64,
+		"name": "Eggplant"
+	},
+	{
+		"R": 240,
+		"B": 214,
+		"G": 234,
+		"name": "Eggshell"
+	},
+	{
+		"R": 16,
+		"B": 166,
+		"G": 52,
+		"name": "Egyptian blue"
+	},
+	{
+		"R": 125,
+		"B": 255,
+		"G": 249,
+		"name": "Electric blue"
+	},
+	{
+		"R": 181,
+		"B": 87,
+		"G": 98,
+		"name": "Electric brown"
+	},
+	{
+		"R": 255,
+		"B": 63,
+		"G": 0,
+		"name": "Electric crimson"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 255,
+		"name": "Electric cyan"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 255,
+		"name": "Electric green"
+	},
+	{
+		"R": 111,
+		"B": 255,
+		"G": 0,
+		"name": "Electric indigo"
+	},
+	{
+		"R": 244,
+		"B": 255,
+		"G": 187,
+		"name": "Electric lavender"
+	},
+	{
+		"R": 204,
+		"B": 0,
+		"G": 255,
+		"name": "Electric lime"
+	},
+	{
+		"R": 255,
+		"B": 3,
+		"G": 53,
+		"name": "Electric orange"
+	},
+	{
+		"R": 246,
+		"B": 129,
+		"G": 38,
+		"name": "Electric pink"
+	},
+	{
+		"R": 191,
+		"B": 255,
+		"G": 0,
+		"name": "Electric purple"
+	},
+	{
+		"R": 230,
+		"B": 0,
+		"G": 0,
+		"name": "Electric red"
+	},
+	{
+		"R": 63,
+		"B": 255,
+		"G": 0,
+		"name": "Electric ultramarine"
+	},
+	{
+		"R": 143,
+		"B": 255,
+		"G": 0,
+		"name": "Electric violet"
+	},
+	{
+		"R": 255,
+		"B": 51,
+		"G": 255,
+		"name": "Electric yellow"
+	},
+	{
+		"R": 80,
+		"B": 120,
+		"G": 200,
+		"name": "Emerald"
+	},
+	{
+		"R": 4,
+		"B": 7,
+		"G": 99,
+		"name": "Emerald green"
+	},
+	{
+		"R": 108,
+		"B": 130,
+		"G": 48,
+		"name": "Eminence"
+	},
+	{
+		"R": 27,
+		"B": 62,
+		"G": 77,
+		"name": "English green"
+	},
+	{
+		"R": 180,
+		"B": 149,
+		"G": 131,
+		"name": "English lavender"
+	},
+	{
+		"R": 171,
+		"B": 82,
+		"G": 75,
+		"name": "English red"
+	},
+	{
+		"R": 204,
+		"B": 75,
+		"G": 71,
+		"name": "English vermillion"
+	},
+	{
+		"R": 86,
+		"B": 92,
+		"G": 60,
+		"name": "English violet"
+	},
+	{
+		"R": 150,
+		"B": 162,
+		"G": 200,
+		"name": "Eton blue"
+	},
+	{
+		"R": 68,
+		"B": 168,
+		"G": 215,
+		"name": "Eucalyptus"
+	},
+	{
+		"R": 193,
+		"B": 107,
+		"G": 154,
+		"name": "Fallow"
+	},
+	{
+		"R": 128,
+		"B": 24,
+		"G": 24,
+		"name": "Falu red"
+	},
+	{
+		"R": 181,
+		"B": 137,
+		"G": 51,
+		"name": "Fandango"
+	},
+	{
+		"R": 222,
+		"B": 133,
+		"G": 82,
+		"name": "Fandango pink"
+	},
+	{
+		"R": 244,
+		"B": 161,
+		"G": 0,
+		"name": "Fashion fuchsia"
+	},
+	{
+		"R": 229,
+		"B": 112,
+		"G": 170,
+		"name": "Fawn"
+	},
+	{
+		"R": 77,
+		"B": 83,
+		"G": 93,
+		"name": "Feldgrau"
+	},
+	{
+		"R": 253,
+		"B": 177,
+		"G": 213,
+		"name": "Feldspar"
+	},
+	{
+		"R": 79,
+		"B": 66,
+		"G": 121,
+		"name": "Fern green"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 40,
+		"name": "Ferrari Red"
+	},
+	{
+		"R": 108,
+		"B": 30,
+		"G": 84,
+		"name": "Field drab"
+	},
+	{
+		"R": 255,
+		"B": 112,
+		"G": 84,
+		"name": "Fiery Rose"
+	},
+	{
+		"R": 178,
+		"B": 34,
+		"G": 34,
+		"name": "Firebrick"
+	},
+	{
+		"R": 206,
+		"B": 41,
+		"G": 32,
+		"name": "Fire engine red"
+	},
+	{
+		"R": 233,
+		"B": 75,
+		"G": 92,
+		"name": "Fire opal"
+	},
+	{
+		"R": 226,
+		"B": 34,
+		"G": 88,
+		"name": "Flame"
+	},
+	{
+		"R": 252,
+		"B": 172,
+		"G": 142,
+		"name": "Flamingo pink"
+	},
+	{
+		"R": 107,
+		"B": 35,
+		"G": 68,
+		"name": "Flattery"
+	},
+	{
+		"R": 247,
+		"B": 142,
+		"G": 233,
+		"name": "Flavescent"
+	},
+	{
+		"R": 238,
+		"B": 130,
+		"G": 220,
+		"name": "Flax"
+	},
+	{
+		"R": 255,
+		"B": 209,
+		"G": 233,
+		"name": "Flesh"
+	},
+	{
+		"R": 162,
+		"B": 109,
+		"G": 0,
+		"name": "Flirt"
+	},
+	{
+		"R": 255,
+		"B": 240,
+		"G": 250,
+		"name": "Floral white"
+	},
+	{
+		"R": 21,
+		"B": 238,
+		"G": 244,
+		"name": "Fluorescent blue"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 191,
+		"name": "Fluorescent orange"
+	},
+	{
+		"R": 255,
+		"B": 147,
+		"G": 20,
+		"name": "Fluorescent pink"
+	},
+	{
+		"R": 204,
+		"B": 0,
+		"G": 255,
+		"name": "Fluorescent yellow"
+	},
+	{
+		"R": 255,
+		"B": 79,
+		"G": 0,
+		"name": "Folly"
+	},
+	{
+		"R": 95,
+		"B": 119,
+		"G": 167,
+		"name": "Forest green (Crayola)"
+	},
+	{
+		"R": 1,
+		"B": 33,
+		"G": 68,
+		"name": "Forest green (traditional)"
+	},
+	{
+		"R": 34,
+		"B": 34,
+		"G": 139,
+		"name": "Forest green (web)"
+	},
+	{
+		"R": 166,
+		"B": 91,
+		"G": 123,
+		"name": "French beige"
+	},
+	{
+		"R": 133,
+		"B": 77,
+		"G": 109,
+		"name": "French bistre"
+	},
+	{
+		"R": 0,
+		"B": 187,
+		"G": 114,
+		"name": "French blue"
+	},
+	{
+		"R": 253,
+		"B": 146,
+		"G": 63,
+		"name": "French fuchsia"
+	},
+	{
+		"R": 134,
+		"B": 142,
+		"G": 96,
+		"name": "French lilac"
+	},
+	{
+		"R": 158,
+		"B": 56,
+		"G": 253,
+		"name": "French lime"
+	},
+	{
+		"R": 212,
+		"B": 212,
+		"G": 115,
+		"name": "French mauve"
+	},
+	{
+		"R": 253,
+		"B": 158,
+		"G": 108,
+		"name": "French pink"
+	},
+	{
+		"R": 129,
+		"B": 83,
+		"G": 20,
+		"name": "French plum"
+	},
+	{
+		"R": 78,
+		"B": 9,
+		"G": 22,
+		"name": "French puce"
+	},
+	{
+		"R": 199,
+		"B": 72,
+		"G": 44,
+		"name": "French raspberry"
+	},
+	{
+		"R": 246,
+		"B": 138,
+		"G": 74,
+		"name": "French rose"
+	},
+	{
+		"R": 119,
+		"B": 254,
+		"G": 181,
+		"name": "French sky blue"
+	},
+	{
+		"R": 136,
+		"B": 206,
+		"G": 6,
+		"name": "French violet"
+	},
+	{
+		"R": 172,
+		"B": 68,
+		"G": 30,
+		"name": "French wine"
+	},
+	{
+		"R": 166,
+		"B": 255,
+		"G": 231,
+		"name": "Fresh Air"
+	},
+	{
+		"R": 233,
+		"B": 167,
+		"G": 54,
+		"name": "Frostbite"
+	},
+	{
+		"R": 255,
+		"B": 255,
+		"G": 0,
+		"name": "Fuchsia"
+	},
+	{
+		"R": 193,
+		"B": 193,
+		"G": 84,
+		"name": "Fuchsia (Crayola)"
+	},
+	{
+		"R": 255,
+		"B": 255,
+		"G": 119,
+		"name": "Fuchsia pink"
+	},
+	{
+		"R": 204,
+		"B": 123,
+		"G": 57,
+		"name": "Fuchsia purple"
+	},
+	{
+		"R": 199,
+		"B": 117,
+		"G": 67,
+		"name": "Fuchsia rose"
+	},
+	{
+		"R": 228,
+		"B": 0,
+		"G": 132,
+		"name": "Fulvous"
+	},
+	{
+		"R": 204,
+		"B": 102,
+		"G": 102,
+		"name": "Fuzzy Wuzzy"
+	},
+	{
+		"R": 220,
+		"B": 220,
+		"G": 220,
+		"name": "Gainsboro"
+	},
+	{
+		"R": 228,
+		"B": 15,
+		"G": 155,
+		"name": "Gamboge"
+	},
+	{
+		"R": 153,
+		"B": 0,
+		"G": 102,
+		"name": "Gamboge orange (brown)"
+	},
+	{
+		"R": 115,
+		"B": 53,
+		"G": 54,
+		"name": "Garnet"
+	},
+	{
+		"R": 255,
+		"B": 70,
+		"G": 223,
+		"name": "Gargoyle Gas"
+	},
+	{
+		"R": 0,
+		"B": 102,
+		"G": 127,
+		"name": "Generic viridian"
+	},
+	{
+		"R": 248,
+		"B": 255,
+		"G": 248,
+		"name": "Ghost white"
+	},
+	{
+		"R": 176,
+		"B": 82,
+		"G": 92,
+		"name": "Giant's Club"
+	},
+	{
+		"R": 254,
+		"B": 29,
+		"G": 90,
+		"name": "Giants orange"
+	},
+	{
+		"R": 216,
+		"B": 188,
+		"G": 228,
+		"name": "Gin"
+	},
+	{
+		"R": 96,
+		"B": 182,
+		"G": 130,
+		"name": "Glaucous"
+	},
+	{
+		"R": 171,
+		"B": 179,
+		"G": 146,
+		"name": "Glossy Grape"
+	},
+	{
+		"R": 0,
+		"B": 102,
+		"G": 171,
+		"name": "GO green"
+	},
+	{
+		"R": 165,
+		"B": 0,
+		"G": 124,
+		"name": "Gold"
+	},
+	{
+		"R": 212,
+		"B": 55,
+		"G": 175,
+		"name": "Gold (metallic)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 215,
+		"name": "Gold (web) (Golden)"
+	},
+	{
+		"R": 230,
+		"B": 138,
+		"G": 190,
+		"name": "Gold (Crayola)"
+	},
+	{
+		"R": 133,
+		"B": 78,
+		"G": 117,
+		"name": "Gold Fusion"
+	},
+	{
+		"R": 189,
+		"B": 22,
+		"G": 155,
+		"name": "Gold foil"
+	},
+	{
+		"R": 153,
+		"B": 21,
+		"G": 101,
+		"name": "Golden brown"
+	},
+	{
+		"R": 252,
+		"B": 0,
+		"G": 194,
+		"name": "Golden poppy"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 223,
+		"name": "Golden yellow"
+	},
+	{
+		"R": 218,
+		"B": 32,
+		"G": 165,
+		"name": "Goldenrod"
+	},
+	{
+		"R": 103,
+		"B": 103,
+		"G": 103,
+		"name": "Granite Gray"
+	},
+	{
+		"R": 168,
+		"B": 160,
+		"G": 228,
+		"name": "Granny Smith Apple"
+	},
+	{
+		"R": 111,
+		"B": 168,
+		"G": 45,
+		"name": "Grape"
+	},
+	{
+		"R": 128,
+		"B": 128,
+		"G": 128,
+		"name": "Gray (HTML\/CSS gray)"
+	},
+	{
+		"R": 190,
+		"B": 190,
+		"G": 190,
+		"name": "Gray (X11 gray)"
+	},
+	{
+		"R": 70,
+		"B": 69,
+		"G": 89,
+		"name": "Gray-asparagus"
+	},
+	{
+		"R": 140,
+		"B": 172,
+		"G": 146,
+		"name": "Gray-blue"
+	},
+	{
+		"R": 0,
+		"B": 1,
+		"G": 128,
+		"name": "Green"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 255,
+		"name": "Green (Color Wheel) (X11 green)"
+	},
+	{
+		"R": 28,
+		"B": 120,
+		"G": 172,
+		"name": "Green (Crayola)"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 128,
+		"name": "Green (HTML\/CSS color)"
+	},
+	{
+		"R": 0,
+		"B": 119,
+		"G": 168,
+		"name": "Green (Munsell)"
+	},
+	{
+		"R": 0,
+		"B": 107,
+		"G": 159,
+		"name": "Green (NCS)"
+	},
+	{
+		"R": 0,
+		"B": 67,
+		"G": 173,
+		"name": "Green (Pantone)"
+	},
+	{
+		"R": 0,
+		"B": 80,
+		"G": 165,
+		"name": "Green (pigment)"
+	},
+	{
+		"R": 102,
+		"B": 50,
+		"G": 176,
+		"name": "Green (RYB)"
+	},
+	{
+		"R": 17,
+		"B": 180,
+		"G": 100,
+		"name": "Green-blue"
+	},
+	{
+		"R": 40,
+		"B": 200,
+		"G": 135,
+		"name": "Green-blue (Crayola)"
+	},
+	{
+		"R": 76,
+		"B": 29,
+		"G": 114,
+		"name": "Green Cola"
+	},
+	{
+		"R": 0,
+		"B": 102,
+		"G": 153,
+		"name": "Green-cyan"
+	},
+	{
+		"R": 167,
+		"B": 50,
+		"G": 244,
+		"name": "Green Lizard"
+	},
+	{
+		"R": 110,
+		"B": 161,
+		"G": 174,
+		"name": "Green Sheen"
+	},
+	{
+		"R": 173,
+		"B": 47,
+		"G": 255,
+		"name": "Green-yellow"
+	},
+	{
+		"R": 240,
+		"B": 145,
+		"G": 232,
+		"name": "Green-yellow (Crayola)"
+	},
+	{
+		"R": 169,
+		"B": 134,
+		"G": 154,
+		"name": "Grullo"
+	},
+	{
+		"R": 0,
+		"B": 127,
+		"G": 255,
+		"name": "Guppie green"
+	},
+	{
+		"R": 42,
+		"B": 57,
+		"G": 52,
+		"name": "Gunmetal"
+	},
+	{
+		"R": 248,
+		"B": 248,
+		"G": 248,
+		"name": "Guyabano"
+	},
+	{
+		"R": 102,
+		"B": 84,
+		"G": 56,
+		"name": "Halayà úbe"
+	},
+	{
+		"R": 235,
+		"B": 35,
+		"G": 97,
+		"name": "Halloween orange"
+	},
+	{
+		"R": 68,
+		"B": 207,
+		"G": 108,
+		"name": "Han blue"
+	},
+	{
+		"R": 82,
+		"B": 250,
+		"G": 24,
+		"name": "Han purple"
+	},
+	{
+		"R": 233,
+		"B": 107,
+		"G": 214,
+		"name": "Hansa yellow"
+	},
+	{
+		"R": 63,
+		"B": 0,
+		"G": 255,
+		"name": "Harlequin"
+	},
+	{
+		"R": 70,
+		"B": 24,
+		"G": 203,
+		"name": "Harlequin green"
+	},
+	{
+		"R": 201,
+		"B": 22,
+		"G": 0,
+		"name": "Harvard crimson"
+	},
+	{
+		"R": 218,
+		"B": 0,
+		"G": 145,
+		"name": "Harvest gold"
+	},
+	{
+		"R": 128,
+		"B": 0,
+		"G": 128,
+		"name": "Heart Gold"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 122,
+		"name": "Heat Wave"
+	},
+	{
+		"R": 150,
+		"B": 24,
+		"G": 0,
+		"name": "Heidelberg Red[2]"
+	},
+	{
+		"R": 223,
+		"B": 255,
+		"G": 115,
+		"name": "Heliotrope"
+	},
+	{
+		"R": 170,
+		"B": 169,
+		"G": 152,
+		"name": "Heliotrope gray"
+	},
+	{
+		"R": 170,
+		"B": 187,
+		"G": 0,
+		"name": "Heliotrope magenta"
+	},
+	{
+		"R": 244,
+		"B": 161,
+		"G": 0,
+		"name": "Hollywood cerise"
+	},
+	{
+		"R": 240,
+		"B": 240,
+		"G": 255,
+		"name": "Honeydew"
+	},
+	{
+		"R": 0,
+		"B": 176,
+		"G": 109,
+		"name": "Honolulu blue"
+	},
+	{
+		"R": 73,
+		"B": 107,
+		"G": 121,
+		"name": "Hooker's green"
+	},
+	{
+		"R": 255,
+		"B": 206,
+		"G": 29,
+		"name": "Hot magenta"
+	},
+	{
+		"R": 255,
+		"B": 180,
+		"G": 105,
+		"name": "Hot pink"
+	},
+	{
+		"R": 53,
+		"B": 59,
+		"G": 94,
+		"name": "Hunter green"
+	},
+	{
+		"R": 113,
+		"B": 210,
+		"G": 166,
+		"name": "Iceberg"
+	},
+	{
+		"R": 146,
+		"B": 1,
+		"G": 60,
+		"name": "Iced tea"
+	},
+	{
+		"R": 252,
+		"B": 94,
+		"G": 247,
+		"name": "Icterine"
+	},
+	{
+		"R": 113,
+		"B": 120,
+		"G": 188,
+		"name": "Iguana Green"
+	},
+	{
+		"R": 49,
+		"B": 119,
+		"G": 145,
+		"name": "Illuminating Emerald"
+	},
+	{
+		"R": 96,
+		"B": 107,
+		"G": 47,
+		"name": "Imperial"
+	},
+	{
+		"R": 0,
+		"B": 149,
+		"G": 35,
+		"name": "Imperial blue"
+	},
+	{
+		"R": 102,
+		"B": 60,
+		"G": 2,
+		"name": "Imperial purple"
+	},
+	{
+		"R": 237,
+		"B": 57,
+		"G": 41,
+		"name": "Imperial red"
+	},
+	{
+		"R": 178,
+		"B": 93,
+		"G": 236,
+		"name": "Inchworm"
+	},
+	{
+		"R": 76,
+		"B": 109,
+		"G": 81,
+		"name": "Independence"
+	},
+	{
+		"R": 19,
+		"B": 8,
+		"G": 136,
+		"name": "India green"
+	},
+	{
+		"R": 205,
+		"B": 92,
+		"G": 92,
+		"name": "Indian red"
+	},
+	{
+		"R": 227,
+		"B": 87,
+		"G": 168,
+		"name": "Indian yellow"
+	},
+	{
+		"R": 75,
+		"B": 130,
+		"G": 0,
+		"name": "Indigo"
+	},
+	{
+		"R": 9,
+		"B": 146,
+		"G": 31,
+		"name": "Indigo dye"
+	},
+	{
+		"R": 79,
+		"B": 198,
+		"G": 105,
+		"name": "Indigo (Crayola)"
+	},
+	{
+		"R": 35,
+		"B": 103,
+		"G": 48,
+		"name": "Indigo (Rainbow)"
+	},
+	{
+		"R": 75,
+		"B": 130,
+		"G": 0,
+		"name": "Indigo (web)"
+	},
+	{
+		"R": 255,
+		"B": 108,
+		"G": 73,
+		"name": "Infra Red"
+	},
+	{
+		"R": 54,
+		"B": 204,
+		"G": 12,
+		"name": "Interdimensional Blue"
+	},
+	{
+		"R": 0,
+		"B": 167,
+		"G": 47,
+		"name": "International Klein Blue"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 79,
+		"name": "International orange (aerospace)"
+	},
+	{
+		"R": 186,
+		"B": 12,
+		"G": 22,
+		"name": "International orange (engineering)"
+	},
+	{
+		"R": 192,
+		"B": 44,
+		"G": 54,
+		"name": "International orange (Golden Gate Bridge)"
+	},
+	{
+		"R": 90,
+		"B": 207,
+		"G": 79,
+		"name": "Iris"
+	},
+	{
+		"R": 179,
+		"B": 108,
+		"G": 68,
+		"name": "Irresistible"
+	},
+	{
+		"R": 244,
+		"B": 236,
+		"G": 240,
+		"name": "Isabelline"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 144,
+		"name": "Islamic green"
+	},
+	{
+		"R": 178,
+		"B": 255,
+		"G": 255,
+		"name": "Italian sky blue"
+	},
+	{
+		"R": 255,
+		"B": 240,
+		"G": 255,
+		"name": "Ivory"
+	},
+	{
+		"R": 61,
+		"B": 93,
+		"G": 50,
+		"name": "Jacarta"
+	},
+	{
+		"R": 65,
+		"B": 40,
+		"G": 54,
+		"name": "Jacko bean"
+	},
+	{
+		"R": 0,
+		"B": 107,
+		"G": 168,
+		"name": "Jade"
+	},
+	{
+		"R": 157,
+		"B": 51,
+		"G": 41,
+		"name": "Japanese carmine"
+	},
+	{
+		"R": 38,
+		"B": 72,
+		"G": 67,
+		"name": "Japanese indigo"
+	},
+	{
+		"R": 47,
+		"B": 50,
+		"G": 117,
+		"name": "Japanese Laurel"
+	},
+	{
+		"R": 91,
+		"B": 86,
+		"G": 50,
+		"name": "Japanese violet"
+	},
+	{
+		"R": 248,
+		"B": 126,
+		"G": 222,
+		"name": "Jasmine"
+	},
+	{
+		"R": 215,
+		"B": 62,
+		"G": 59,
+		"name": "Jasper"
+	},
+	{
+		"R": 222,
+		"B": 78,
+		"G": 143,
+		"name": "Jasper Orange"
+	},
+	{
+		"R": 165,
+		"B": 94,
+		"G": 11,
+		"name": "Jazzberry jam"
+	},
+	{
+		"R": 218,
+		"B": 78,
+		"G": 97,
+		"name": "Jelly Bean"
+	},
+	{
+		"R": 68,
+		"B": 142,
+		"G": 121,
+		"name": "Jelly Bean Blue"
+	},
+	{
+		"R": 52,
+		"B": 52,
+		"G": 52,
+		"name": "Jet"
+	},
+	{
+		"R": 187,
+		"B": 201,
+		"G": 208,
+		"name": "Jet Stream"
+	},
+	{
+		"R": 244,
+		"B": 22,
+		"G": 202,
+		"name": "Jonquil"
+	},
+	{
+		"R": 138,
+		"B": 241,
+		"G": 185,
+		"name": "Jordy blue"
+	},
+	{
+		"R": 189,
+		"B": 87,
+		"G": 218,
+		"name": "June bud"
+	},
+	{
+		"R": 41,
+		"B": 135,
+		"G": 171,
+		"name": "Jungle green"
+	},
+	{
+		"R": 76,
+		"B": 23,
+		"G": 187,
+		"name": "Kelly green"
+	},
+	{
+		"R": 124,
+		"B": 5,
+		"G": 28,
+		"name": "Kenyan copper"
+	},
+	{
+		"R": 58,
+		"B": 158,
+		"G": 176,
+		"name": "Keppel"
+	},
+	{
+		"R": 232,
+		"B": 140,
+		"G": 244,
+		"name": "Key Lime"
+	},
+	{
+		"R": 195,
+		"B": 145,
+		"G": 176,
+		"name": "Khaki (HTML\/CSS) (Khaki)"
+	},
+	{
+		"R": 240,
+		"B": 140,
+		"G": 230,
+		"name": "Khaki (X11) (Light khaki)"
+	},
+	{
+		"R": 142,
+		"B": 63,
+		"G": 229,
+		"name": "Kiwi"
+	},
+	{
+		"R": 136,
+		"B": 23,
+		"G": 45,
+		"name": "Kobe"
+	},
+	{
+		"R": 231,
+		"B": 196,
+		"G": 159,
+		"name": "Kobi"
+	},
+	{
+		"R": 107,
+		"B": 35,
+		"G": 68,
+		"name": "Kobicha"
+	},
+	{
+		"R": 53,
+		"B": 48,
+		"G": 66,
+		"name": "Kombu green"
+	},
+	{
+		"R": 81,
+		"B": 136,
+		"G": 40,
+		"name": "KSU Purple"
+	},
+	{
+		"R": 232,
+		"B": 13,
+		"G": 0,
+		"name": "KU Crimson"
+	},
+	{
+		"R": 8,
+		"B": 48,
+		"G": 120,
+		"name": "La Salle Green"
+	},
+	{
+		"R": 214,
+		"B": 221,
+		"G": 202,
+		"name": "Languid lavender"
+	},
+	{
+		"R": 224,
+		"B": 91,
+		"G": 188,
+		"name": "Lanzones"
+	},
+	{
+		"R": 38,
+		"B": 156,
+		"G": 97,
+		"name": "Lapis lazuli"
+	},
+	{
+		"R": 255,
+		"B": 102,
+		"G": 255,
+		"name": "Laser Lemon"
+	},
+	{
+		"R": 169,
+		"B": 157,
+		"G": 186,
+		"name": "Laurel green"
+	},
+	{
+		"R": 207,
+		"B": 32,
+		"G": 16,
+		"name": "Lava"
+	},
+	{
+		"R": 181,
+		"B": 220,
+		"G": 126,
+		"name": "Lavender (floral)"
+	},
+	{
+		"R": 230,
+		"B": 250,
+		"G": 230,
+		"name": "Lavender (web)"
+	},
+	{
+		"R": 204,
+		"B": 255,
+		"G": 204,
+		"name": "Lavender blue"
+	},
+	{
+		"R": 255,
+		"B": 245,
+		"G": 240,
+		"name": "Lavender blush"
+	},
+	{
+		"R": 196,
+		"B": 208,
+		"G": 195,
+		"name": "Lavender gray"
+	},
+	{
+		"R": 148,
+		"B": 235,
+		"G": 87,
+		"name": "Lavender indigo"
+	},
+	{
+		"R": 238,
+		"B": 238,
+		"G": 130,
+		"name": "Lavender magenta"
+	},
+	{
+		"R": 230,
+		"B": 250,
+		"G": 230,
+		"name": "Lavender mist"
+	},
+	{
+		"R": 251,
+		"B": 210,
+		"G": 174,
+		"name": "Lavender pink"
+	},
+	{
+		"R": 150,
+		"B": 182,
+		"G": 123,
+		"name": "Lavender purple"
+	},
+	{
+		"R": 251,
+		"B": 227,
+		"G": 160,
+		"name": "Lavender rose"
+	},
+	{
+		"R": 124,
+		"B": 0,
+		"G": 252,
+		"name": "Lawn green"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 247,
+		"name": "Lemon"
+	},
+	{
+		"R": 255,
+		"B": 205,
+		"G": 250,
+		"name": "Lemon chiffon"
+	},
+	{
+		"R": 204,
+		"B": 29,
+		"G": 160,
+		"name": "Lemon curry"
+	},
+	{
+		"R": 253,
+		"B": 0,
+		"G": 255,
+		"name": "Lemon glacier"
+	},
+	{
+		"R": 189,
+		"B": 0,
+		"G": 48,
+		"name": "Lemon iced tea"
+	},
+	{
+		"R": 227,
+		"B": 0,
+		"G": 255,
+		"name": "Lemon lime"
+	},
+	{
+		"R": 92,
+		"B": 103,
+		"G": 255,
+		"name": "Lemon lime"
+	},
+	{
+		"R": 246,
+		"B": 190,
+		"G": 234,
+		"name": "Lemon meringue"
+	},
+	{
+		"R": 255,
+		"B": 79,
+		"G": 244,
+		"name": "Lemon yellow"
+	},
+	{
+		"R": 255,
+		"B": 159,
+		"G": 255,
+		"name": "Lemon yellow (Crayola)"
+	},
+	{
+		"R": 186,
+		"B": 216,
+		"G": 147,
+		"name": "Lenurple"
+	},
+	{
+		"R": 84,
+		"B": 167,
+		"G": 90,
+		"name": "Liberty"
+	},
+	{
+		"R": 26,
+		"B": 16,
+		"G": 17,
+		"name": "Licorice"
+	},
+	{
+		"R": 253,
+		"B": 177,
+		"G": 213,
+		"name": "Light apricot"
+	},
+	{
+		"R": 173,
+		"B": 230,
+		"G": 216,
+		"name": "Light blue"
+	},
+	{
+		"R": 181,
+		"B": 29,
+		"G": 101,
+		"name": "Light brown"
+	},
+	{
+		"R": 230,
+		"B": 113,
+		"G": 103,
+		"name": "Light carmine pink"
+	},
+	{
+		"R": 85,
+		"B": 47,
+		"G": 31,
+		"name": "Light Chocolate Cosmos"
+	},
+	{
+		"R": 136,
+		"B": 224,
+		"G": 172,
+		"name": "Light cobalt blue"
+	},
+	{
+		"R": 240,
+		"B": 128,
+		"G": 128,
+		"name": "Light coral"
+	},
+	{
+		"R": 147,
+		"B": 234,
+		"G": 204,
+		"name": "Light cornflower blue"
+	},
+	{
+		"R": 245,
+		"B": 145,
+		"G": 105,
+		"name": "Light crimson"
+	},
+	{
+		"R": 224,
+		"B": 255,
+		"G": 255,
+		"name": "Light cyan"
+	},
+	{
+		"R": 255,
+		"B": 205,
+		"G": 92,
+		"name": "Light deep pink"
+	},
+	{
+		"R": 200,
+		"B": 127,
+		"G": 173,
+		"name": "Light French beige"
+	},
+	{
+		"R": 249,
+		"B": 239,
+		"G": 132,
+		"name": "Light fuchsia pink"
+	},
+	{
+		"R": 178,
+		"B": 0,
+		"G": 151,
+		"name": "Light gold"
+	},
+	{
+		"R": 250,
+		"B": 210,
+		"G": 250,
+		"name": "Light goldenrod yellow"
+	},
+	{
+		"R": 211,
+		"B": 211,
+		"G": 211,
+		"name": "Light gray"
+	},
+	{
+		"R": 204,
+		"B": 204,
+		"G": 153,
+		"name": "Light grayish magenta"
+	},
+	{
+		"R": 144,
+		"B": 144,
+		"G": 238,
+		"name": "Light green"
+	},
+	{
+		"R": 255,
+		"B": 222,
+		"G": 179,
+		"name": "Light hot pink"
+	},
+	{
+		"R": 240,
+		"B": 140,
+		"G": 230,
+		"name": "Light khaki"
+	},
+	{
+		"R": 211,
+		"B": 203,
+		"G": 155,
+		"name": "Light medium orchid"
+	},
+	{
+		"R": 173,
+		"B": 173,
+		"G": 223,
+		"name": "Light moss green"
+	},
+	{
+		"R": 254,
+		"B": 177,
+		"G": 216,
+		"name": "Light orange"
+	},
+	{
+		"R": 230,
+		"B": 215,
+		"G": 168,
+		"name": "Light orchid"
+	},
+	{
+		"R": 177,
+		"B": 217,
+		"G": 156,
+		"name": "Light pastel purple"
+	},
+	{
+		"R": 197,
+		"B": 225,
+		"G": 203,
+		"name": "Light periwinkle"
+	},
+	{
+		"R": 255,
+		"B": 193,
+		"G": 182,
+		"name": "Light pink"
+	},
+	{
+		"R": 255,
+		"B": 203,
+		"G": 204,
+		"name": "Light red"
+	},
+	{
+		"R": 233,
+		"B": 81,
+		"G": 116,
+		"name": "Light red ochre"
+	},
+	{
+		"R": 255,
+		"B": 122,
+		"G": 160,
+		"name": "Light salmon"
+	},
+	{
+		"R": 255,
+		"B": 153,
+		"G": 153,
+		"name": "Light salmon pink"
+	},
+	{
+		"R": 32,
+		"B": 170,
+		"G": 178,
+		"name": "Light sea green"
+	},
+	{
+		"R": 216,
+		"B": 216,
+		"G": 216,
+		"name": "Light silver"
+	},
+	{
+		"R": 135,
+		"B": 250,
+		"G": 206,
+		"name": "Light sky blue"
+	},
+	{
+		"R": 119,
+		"B": 153,
+		"G": 136,
+		"name": "Light slate gray"
+	},
+	{
+		"R": 176,
+		"B": 222,
+		"G": 196,
+		"name": "Light steel blue"
+	},
+	{
+		"R": 179,
+		"B": 109,
+		"G": 139,
+		"name": "Light taupe"
+	},
+	{
+		"R": 230,
+		"B": 172,
+		"G": 143,
+		"name": "Light Thulian pink"
+	},
+	{
+		"R": 255,
+		"B": 224,
+		"G": 255,
+		"name": "Light yellow"
+	},
+	{
+		"R": 200,
+		"B": 200,
+		"G": 162,
+		"name": "Lilac"
+	},
+	{
+		"R": 174,
+		"B": 170,
+		"G": 152,
+		"name": "Lilac Luster"
+	},
+	{
+		"R": 191,
+		"B": 0,
+		"G": 255,
+		"name": "Lime (color wheel)"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 255,
+		"name": "Lime (web) (X11 green)"
+	},
+	{
+		"R": 50,
+		"B": 50,
+		"G": 205,
+		"name": "Lime green"
+	},
+	{
+		"R": 157,
+		"B": 9,
+		"G": 194,
+		"name": "Limerick"
+	},
+	{
+		"R": 25,
+		"B": 5,
+		"G": 89,
+		"name": "Lincoln green"
+	},
+	{
+		"R": 250,
+		"B": 230,
+		"G": 240,
+		"name": "Linen"
+	},
+	{
+		"R": 193,
+		"B": 107,
+		"G": 154,
+		"name": "Lion"
+	},
+	{
+		"R": 222,
+		"B": 161,
+		"G": 111,
+		"name": "Liseran Purple"
+	},
+	{
+		"R": 108,
+		"B": 220,
+		"G": 160,
+		"name": "Little boy blue"
+	},
+	{
+		"R": 248,
+		"B": 212,
+		"G": 185,
+		"name": "Little girl pink"
+	},
+	{
+		"R": 103,
+		"B": 71,
+		"G": 76,
+		"name": "Liver"
+	},
+	{
+		"R": 184,
+		"B": 41,
+		"G": 109,
+		"name": "Liver (dogs)"
+	},
+	{
+		"R": 108,
+		"B": 31,
+		"G": 46,
+		"name": "Liver (organ)"
+	},
+	{
+		"R": 152,
+		"B": 86,
+		"G": 116,
+		"name": "Liver chestnut"
+	},
+	{
+		"R": 102,
+		"B": 204,
+		"G": 153,
+		"name": "Livid"
+	},
+	{
+		"R": 254,
+		"B": 250,
+		"G": 253,
+		"name": "Lotion"
+	},
+	{
+		"R": 21,
+		"B": 253,
+		"G": 242,
+		"name": "Lotion blue"
+	},
+	{
+		"R": 236,
+		"B": 207,
+		"G": 207,
+		"name": "Lotion pink"
+	},
+	{
+		"R": 255,
+		"B": 205,
+		"G": 228,
+		"name": "Lumber"
+	},
+	{
+		"R": 230,
+		"B": 32,
+		"G": 32,
+		"name": "Lust"
+	},
+	{
+		"R": 0,
+		"B": 61,
+		"G": 28,
+		"name": "Maastricht Blue"
+	},
+	{
+		"R": 255,
+		"B": 136,
+		"G": 189,
+		"name": "Macaroni and Cheese"
+	},
+	{
+		"R": 204,
+		"B": 54,
+		"G": 51,
+		"name": "Madder Lake"
+	},
+	{
+		"R": 255,
+		"B": 255,
+		"G": 0,
+		"name": "Magenta"
+	},
+	{
+		"R": 255,
+		"B": 163,
+		"G": 85,
+		"name": "Magenta (Crayola)"
+	},
+	{
+		"R": 202,
+		"B": 123,
+		"G": 31,
+		"name": "Magenta (dye)"
+	},
+	{
+		"R": 208,
+		"B": 126,
+		"G": 65,
+		"name": "Magenta (Pantone)"
+	},
+	{
+		"R": 255,
+		"B": 144,
+		"G": 0,
+		"name": "Magenta (process)"
+	},
+	{
+		"R": 159,
+		"B": 118,
+		"G": 69,
+		"name": "Magenta haze"
+	},
+	{
+		"R": 204,
+		"B": 139,
+		"G": 51,
+		"name": "Magenta-pink"
+	},
+	{
+		"R": 170,
+		"B": 209,
+		"G": 240,
+		"name": "Magic mint"
+	},
+	{
+		"R": 255,
+		"B": 102,
+		"G": 68,
+		"name": "Magic Potion"
+	},
+	{
+		"R": 248,
+		"B": 255,
+		"G": 244,
+		"name": "Magnolia"
+	},
+	{
+		"R": 192,
+		"B": 0,
+		"G": 64,
+		"name": "Mahogany"
+	},
+	{
+		"R": 202,
+		"B": 53,
+		"G": 52,
+		"name": "Mahogany (Crayola)"
+	},
+	{
+		"R": 251,
+		"B": 93,
+		"G": 236,
+		"name": "Maize"
+	},
+	{
+		"R": 242,
+		"B": 73,
+		"G": 198,
+		"name": "Maize (Crayola)"
+	},
+	{
+		"R": 96,
+		"B": 220,
+		"G": 80,
+		"name": "Majorelle Blue"
+	},
+	{
+		"R": 11,
+		"B": 81,
+		"G": 218,
+		"name": "Malachite"
+	},
+	{
+		"R": 151,
+		"B": 170,
+		"G": 154,
+		"name": "Manatee"
+	},
+	{
+		"R": 243,
+		"B": 72,
+		"G": 122,
+		"name": "Mandarin"
+	},
+	{
+		"R": 253,
+		"B": 2,
+		"G": 190,
+		"name": "Mango"
+	},
+	{
+		"R": 150,
+		"B": 0,
+		"G": 255,
+		"name": "Mango green"
+	},
+	{
+		"R": 255,
+		"B": 67,
+		"G": 130,
+		"name": "Mango Tango"
+	},
+	{
+		"R": 116,
+		"B": 101,
+		"G": 195,
+		"name": "Mantis"
+	},
+	{
+		"R": 136,
+		"B": 133,
+		"G": 0,
+		"name": "Mardi Gras"
+	},
+	{
+		"R": 234,
+		"B": 33,
+		"G": 162,
+		"name": "Marigold"
+	},
+	{
+		"R": 195,
+		"B": 72,
+		"G": 33,
+		"name": "Maroon (Crayola)"
+	},
+	{
+		"R": 128,
+		"B": 0,
+		"G": 0,
+		"name": "Maroon (HTML\/CSS)"
+	},
+	{
+		"R": 176,
+		"B": 96,
+		"G": 48,
+		"name": "Maroon (X11)"
+	},
+	{
+		"R": 224,
+		"B": 255,
+		"G": 176,
+		"name": "Mauve"
+	},
+	{
+		"R": 145,
+		"B": 109,
+		"G": 95,
+		"name": "Mauve taupe"
+	},
+	{
+		"R": 239,
+		"B": 170,
+		"G": 152,
+		"name": "Mauvelous"
+	},
+	{
+		"R": 71,
+		"B": 204,
+		"G": 171,
+		"name": "Maximum Blue"
+	},
+	{
+		"R": 48,
+		"B": 191,
+		"G": 191,
+		"name": "Maximum Blue Green"
+	},
+	{
+		"R": 172,
+		"B": 230,
+		"G": 172,
+		"name": "Maximum Blue Purple"
+	},
+	{
+		"R": 94,
+		"B": 49,
+		"G": 140,
+		"name": "Maximum Green"
+	},
+	{
+		"R": 217,
+		"B": 80,
+		"G": 230,
+		"name": "Maximum Green Yellow"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 91,
+		"name": "Maximum orange"
+	},
+	{
+		"R": 115,
+		"B": 128,
+		"G": 51,
+		"name": "Maximum Purple"
+	},
+	{
+		"R": 246,
+		"B": 242,
+		"G": 165,
+		"name": "Maximum pink"
+	},
+	{
+		"R": 217,
+		"B": 33,
+		"G": 33,
+		"name": "Maximum red"
+	},
+	{
+		"R": 166,
+		"B": 121,
+		"G": 58,
+		"name": "Maximum Red Purple"
+	},
+	{
+		"R": 137,
+		"B": 119,
+		"G": 47,
+		"name": "Maximum violet"
+	},
+	{
+		"R": 250,
+		"B": 55,
+		"G": 250,
+		"name": "Maximum Yellow"
+	},
+	{
+		"R": 242,
+		"B": 73,
+		"G": 186,
+		"name": "Maximum Yellow Red"
+	},
+	{
+		"R": 76,
+		"B": 65,
+		"G": 145,
+		"name": "May green"
+	},
+	{
+		"R": 115,
+		"B": 251,
+		"G": 194,
+		"name": "Maya blue"
+	},
+	{
+		"R": 229,
+		"B": 59,
+		"G": 183,
+		"name": "Meat brown"
+	},
+	{
+		"R": 102,
+		"B": 170,
+		"G": 221,
+		"name": "Medium aquamarine"
+	},
+	{
+		"R": 0,
+		"B": 205,
+		"G": 0,
+		"name": "Medium blue"
+	},
+	{
+		"R": 226,
+		"B": 44,
+		"G": 6,
+		"name": "Medium candy apple red"
+	},
+	{
+		"R": 175,
+		"B": 53,
+		"G": 64,
+		"name": "Medium carmine"
+	},
+	{
+		"R": 243,
+		"B": 171,
+		"G": 229,
+		"name": "Medium champagne"
+	},
+	{
+		"R": 3,
+		"B": 150,
+		"G": 80,
+		"name": "Medium electric blue"
+	},
+	{
+		"R": 3,
+		"B": 73,
+		"G": 121,
+		"name": "Medium green"
+	},
+	{
+		"R": 28,
+		"B": 45,
+		"G": 53,
+		"name": "Medium jungle green"
+	},
+	{
+		"R": 221,
+		"B": 221,
+		"G": 160,
+		"name": "Medium lavender magenta"
+	},
+	{
+		"R": 255,
+		"B": 2,
+		"G": 120,
+		"name": "Medium orange"
+	},
+	{
+		"R": 186,
+		"B": 211,
+		"G": 85,
+		"name": "Medium orchid"
+	},
+	{
+		"R": 0,
+		"B": 165,
+		"G": 103,
+		"name": "Medium Persian blue"
+	},
+	{
+		"R": 254,
+		"B": 159,
+		"G": 110,
+		"name": "Medium pink"
+	},
+	{
+		"R": 147,
+		"B": 219,
+		"G": 112,
+		"name": "Medium purple"
+	},
+	{
+		"R": 177,
+		"B": 4,
+		"G": 3,
+		"name": "Medium red"
+	},
+	{
+		"R": 187,
+		"B": 133,
+		"G": 51,
+		"name": "Medium red-violet"
+	},
+	{
+		"R": 170,
+		"B": 105,
+		"G": 64,
+		"name": "Medium ruby"
+	},
+	{
+		"R": 60,
+		"B": 113,
+		"G": 179,
+		"name": "Medium sea green"
+	},
+	{
+		"R": 128,
+		"B": 235,
+		"G": 218,
+		"name": "Medium sky blue"
+	},
+	{
+		"R": 123,
+		"B": 238,
+		"G": 104,
+		"name": "Medium slate blue"
+	},
+	{
+		"R": 201,
+		"B": 135,
+		"G": 220,
+		"name": "Medium spring bud"
+	},
+	{
+		"R": 0,
+		"B": 154,
+		"G": 250,
+		"name": "Medium spring green"
+	},
+	{
+		"R": 103,
+		"B": 71,
+		"G": 76,
+		"name": "Medium taupe"
+	},
+	{
+		"R": 72,
+		"B": 204,
+		"G": 209,
+		"name": "Medium turquoise"
+	},
+	{
+		"R": 121,
+		"B": 59,
+		"G": 68,
+		"name": "Medium Tuscan red"
+	},
+	{
+		"R": 217,
+		"B": 59,
+		"G": 96,
+		"name": "Medium vermilion"
+	},
+	{
+		"R": 101,
+		"B": 95,
+		"G": 49,
+		"name": "Medium violet"
+	},
+	{
+		"R": 199,
+		"B": 133,
+		"G": 21,
+		"name": "Medium violet-red"
+	},
+	{
+		"R": 255,
+		"B": 2,
+		"G": 227,
+		"name": "Medium yellow"
+	},
+	{
+		"R": 248,
+		"B": 120,
+		"G": 184,
+		"name": "Mellow apricot"
+	},
+	{
+		"R": 248,
+		"B": 126,
+		"G": 222,
+		"name": "Mellow yellow"
+	},
+	{
+		"R": 253,
+		"B": 180,
+		"G": 188,
+		"name": "Melon"
+	},
+	{
+		"R": 254,
+		"B": 173,
+		"G": 186,
+		"name": "Melon (Crayola)"
+	},
+	{
+		"R": 193,
+		"B": 162,
+		"G": 249,
+		"name": "Menthol"
+	},
+	{
+		"R": 50,
+		"B": 123,
+		"G": 82,
+		"name": "Metallic blue"
+	},
+	{
+		"R": 169,
+		"B": 66,
+		"G": 113,
+		"name": "Metallic bronze"
+	},
+	{
+		"R": 172,
+		"B": 19,
+		"G": 67,
+		"name": "Metallic brown"
+	},
+	{
+		"R": 169,
+		"B": 66,
+		"G": 113,
+		"name": "Metallic gold"
+	},
+	{
+		"R": 41,
+		"B": 1,
+		"G": 110,
+		"name": "Metallic green"
+	},
+	{
+		"R": 218,
+		"B": 15,
+		"G": 104,
+		"name": "Metallic orange"
+	},
+	{
+		"R": 237,
+		"B": 196,
+		"G": 166,
+		"name": "Metallic pink"
+	},
+	{
+		"R": 166,
+		"B": 43,
+		"G": 44,
+		"name": "Metallic red"
+	},
+	{
+		"R": 10,
+		"B": 140,
+		"G": 126,
+		"name": "Metallic Seaweed"
+	},
+	{
+		"R": 168,
+		"B": 173,
+		"G": 169,
+		"name": "Metallic silver"
+	},
+	{
+		"R": 156,
+		"B": 56,
+		"G": 124,
+		"name": "Metallic Sunburst"
+	},
+	{
+		"R": 91,
+		"B": 145,
+		"G": 10,
+		"name": "Metallic violet"
+	},
+	{
+		"R": 253,
+		"B": 13,
+		"G": 204,
+		"name": "Metallic yellow"
+	},
+	{
+		"R": 228,
+		"B": 124,
+		"G": 0,
+		"name": "Mexican pink"
+	},
+	{
+		"R": 126,
+		"B": 230,
+		"G": 212,
+		"name": "Middle Blue"
+	},
+	{
+		"R": 141,
+		"B": 204,
+		"G": 217,
+		"name": "Middle Blue Green"
+	},
+	{
+		"R": 139,
+		"B": 190,
+		"G": 114,
+		"name": "Middle Blue Purple"
+	},
+	{
+		"R": 139,
+		"B": 128,
+		"G": 134,
+		"name": "Middle Grey"
+	},
+	{
+		"R": 77,
+		"B": 87,
+		"G": 140,
+		"name": "Middle Green"
+	},
+	{
+		"R": 172,
+		"B": 96,
+		"G": 191,
+		"name": "Middle Green Yellow"
+	},
+	{
+		"R": 217,
+		"B": 181,
+		"G": 130,
+		"name": "Middle Purple"
+	},
+	{
+		"R": 229,
+		"B": 115,
+		"G": 142,
+		"name": "Middle Red"
+	},
+	{
+		"R": 165,
+		"B": 83,
+		"G": 83,
+		"name": "Middle Red Purple"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 235,
+		"name": "Middle Yellow"
+	},
+	{
+		"R": 236,
+		"B": 118,
+		"G": 177,
+		"name": "Middle Yellow Red"
+	},
+	{
+		"R": 112,
+		"B": 112,
+		"G": 38,
+		"name": "Midnight"
+	},
+	{
+		"R": 25,
+		"B": 112,
+		"G": 25,
+		"name": "Midnight blue"
+	},
+	{
+		"R": 0,
+		"B": 140,
+		"G": 70,
+		"name": "Midnight blue"
+	},
+	{
+		"R": 0,
+		"B": 83,
+		"G": 73,
+		"name": "Midnight green (eagle green)"
+	},
+	{
+		"R": 255,
+		"B": 12,
+		"G": 196,
+		"name": "Mikado yellow"
+	},
+	{
+		"R": 253,
+		"B": 245,
+		"G": 255,
+		"name": "Milk"
+	},
+	{
+		"R": 132,
+		"B": 60,
+		"G": 86,
+		"name": "Milk chocolate"
+	},
+	{
+		"R": 255,
+		"B": 233,
+		"G": 218,
+		"name": "Mimi Pink"
+	},
+	{
+		"R": 227,
+		"B": 136,
+		"G": 249,
+		"name": "Mindaro"
+	},
+	{
+		"R": 54,
+		"B": 125,
+		"G": 116,
+		"name": "Ming"
+	},
+	{
+		"R": 245,
+		"B": 80,
+		"G": 224,
+		"name": "Minion Yellow"
+	},
+	{
+		"R": 62,
+		"B": 137,
+		"G": 180,
+		"name": "Mint"
+	},
+	{
+		"R": 245,
+		"B": 250,
+		"G": 255,
+		"name": "Mint cream"
+	},
+	{
+		"R": 152,
+		"B": 152,
+		"G": 255,
+		"name": "Mint green"
+	},
+	{
+		"R": 187,
+		"B": 119,
+		"G": 180,
+		"name": "Misty Moss"
+	},
+	{
+		"R": 255,
+		"B": 225,
+		"G": 228,
+		"name": "Misty rose"
+	},
+	{
+		"R": 250,
+		"B": 215,
+		"G": 235,
+		"name": "Moccasin"
+	},
+	{
+		"R": 190,
+		"B": 147,
+		"G": 164,
+		"name": "Mocha"
+	},
+	{
+		"R": 150,
+		"B": 23,
+		"G": 113,
+		"name": "Mode beige"
+	},
+	{
+		"R": 58,
+		"B": 193,
+		"G": 168,
+		"name": "Moonstone"
+	},
+	{
+		"R": 115,
+		"B": 194,
+		"G": 169,
+		"name": "Moonstone blue"
+	},
+	{
+		"R": 174,
+		"B": 0,
+		"G": 12,
+		"name": "Mordant red 19"
+	},
+	{
+		"R": 141,
+		"B": 153,
+		"G": 163,
+		"name": "Morning blue"
+	},
+	{
+		"R": 138,
+		"B": 91,
+		"G": 154,
+		"name": "Moss green"
+	},
+	{
+		"R": 48,
+		"B": 143,
+		"G": 186,
+		"name": "Mountain Meadow"
+	},
+	{
+		"R": 153,
+		"B": 141,
+		"G": 122,
+		"name": "Mountbatten pink"
+	},
+	{
+		"R": 24,
+		"B": 59,
+		"G": 69,
+		"name": "MSU Green"
+	},
+	{
+		"R": 112,
+		"B": 62,
+		"G": 84,
+		"name": "Mud"
+	},
+	{
+		"R": 48,
+		"B": 48,
+		"G": 96,
+		"name": "Mughal green"
+	},
+	{
+		"R": 197,
+		"B": 140,
+		"G": 75,
+		"name": "Mulberry"
+	},
+	{
+		"R": 200,
+		"B": 155,
+		"G": 80,
+		"name": "Mulberry (Crayola)"
+	},
+	{
+		"R": 130,
+		"B": 132,
+		"G": 142,
+		"name": "Mummy's Tomb"
+	},
+	{
+		"R": 255,
+		"B": 88,
+		"G": 219,
+		"name": "Mustard"
+	},
+	{
+		"R": 205,
+		"B": 0,
+		"G": 122,
+		"name": "Mustard brown"
+	},
+	{
+		"R": 110,
+		"B": 48,
+		"G": 110,
+		"name": "Mustard green"
+	},
+	{
+		"R": 225,
+		"B": 1,
+		"G": 173,
+		"name": "Mustard yellow"
+	},
+	{
+		"R": 49,
+		"B": 115,
+		"G": 120,
+		"name": "Myrtle green"
+	},
+	{
+		"R": 214,
+		"B": 130,
+		"G": 82,
+		"name": "Mystic"
+	},
+	{
+		"R": 173,
+		"B": 121,
+		"G": 67,
+		"name": "Mystic Maroon"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 85,
+		"name": "Mystic Red"
+	},
+	{
+		"R": 246,
+		"B": 198,
+		"G": 173,
+		"name": "Nadeshiko pink"
+	},
+	{
+		"R": 42,
+		"B": 0,
+		"G": 128,
+		"name": "Napier green"
+	},
+	{
+		"R": 250,
+		"B": 94,
+		"G": 218,
+		"name": "Naples yellow"
+	},
+	{
+		"R": 255,
+		"B": 173,
+		"G": 222,
+		"name": "Navajo white"
+	},
+	{
+		"R": 0,
+		"B": 128,
+		"G": 0,
+		"name": "Navy"
+	},
+	{
+		"R": 0,
+		"B": 128,
+		"G": 0,
+		"name": "Navy blue"
+	},
+	{
+		"R": 25,
+		"B": 210,
+		"G": 116,
+		"name": "Navy Blue (Crayola)"
+	},
+	{
+		"R": 148,
+		"B": 235,
+		"G": 87,
+		"name": "Navy purple"
+	},
+	{
+		"R": 27,
+		"B": 163,
+		"G": 3,
+		"name": "Neon blue"
+	},
+	{
+		"R": 195,
+		"B": 42,
+		"G": 115,
+		"name": "Neon brown"
+	},
+	{
+		"R": 255,
+		"B": 67,
+		"G": 163,
+		"name": "Neon Carrot"
+	},
+	{
+		"R": 0,
+		"B": 252,
+		"G": 254,
+		"name": "Neon cyan"
+	},
+	{
+		"R": 254,
+		"B": 100,
+		"G": 65,
+		"name": "Neon fuchsia"
+	},
+	{
+		"R": 207,
+		"B": 1,
+		"G": 170,
+		"name": "Neon gold"
+	},
+	{
+		"R": 128,
+		"B": 128,
+		"G": 128,
+		"name": "Neon gray"
+	},
+	{
+		"R": 0,
+		"B": 67,
+		"G": 132,
+		"name": "Neon dark green"
+	},
+	{
+		"R": 19,
+		"B": 66,
+		"G": 155,
+		"name": "Neon green"
+	},
+	{
+		"R": 57,
+		"B": 20,
+		"G": 255,
+		"name": "Neon green"
+	},
+	{
+		"R": 254,
+		"B": 126,
+		"G": 52,
+		"name": "Neon pink"
+	},
+	{
+		"R": 148,
+		"B": 235,
+		"G": 87,
+		"name": "Neon purple"
+	},
+	{
+		"R": 255,
+		"B": 24,
+		"G": 24,
+		"name": "Neon red"
+	},
+	{
+		"R": 255,
+		"B": 3,
+		"G": 38,
+		"name": "Neon scarlet"
+	},
+	{
+		"R": 204,
+		"B": 204,
+		"G": 204,
+		"name": "Neon silver"
+	},
+	{
+		"R": 246,
+		"B": 10,
+		"G": 137,
+		"name": "Neon tangerine"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 247,
+		"name": "Neon yellow"
+	},
+	{
+		"R": 33,
+		"B": 198,
+		"G": 79,
+		"name": "New Car"
+	},
+	{
+		"R": 215,
+		"B": 127,
+		"G": 131,
+		"name": "New York pink"
+	},
+	{
+		"R": 114,
+		"B": 114,
+		"G": 116,
+		"name": "Nickel"
+	},
+	{
+		"R": 164,
+		"B": 237,
+		"G": 221,
+		"name": "Non-photo blue"
+	},
+	{
+		"R": 5,
+		"B": 51,
+		"G": 144,
+		"name": "North Texas Green"
+	},
+	{
+		"R": 233,
+		"B": 219,
+		"G": 255,
+		"name": "Nyanza"
+	},
+	{
+		"R": 79,
+		"B": 181,
+		"G": 66,
+		"name": "Ocean Blue"
+	},
+	{
+		"R": 0,
+		"B": 190,
+		"G": 119,
+		"name": "Ocean Boat Blue"
+	},
+	{
+		"R": 72,
+		"B": 145,
+		"G": 191,
+		"name": "Ocean Green"
+	},
+	{
+		"R": 204,
+		"B": 34,
+		"G": 119,
+		"name": "Ochre"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 128,
+		"name": "Office green"
+	},
+	{
+		"R": 253,
+		"B": 64,
+		"G": 82,
+		"name": "Ogre Odor"
+	},
+	{
+		"R": 67,
+		"B": 46,
+		"G": 48,
+		"name": "Old burgundy"
+	},
+	{
+		"R": 207,
+		"B": 59,
+		"G": 181,
+		"name": "Old gold"
+	},
+	{
+		"R": 86,
+		"B": 92,
+		"G": 60,
+		"name": "Old heliotrope"
+	},
+	{
+		"R": 253,
+		"B": 230,
+		"G": 245,
+		"name": "Old lace"
+	},
+	{
+		"R": 121,
+		"B": 120,
+		"G": 104,
+		"name": "Old lavender"
+	},
+	{
+		"R": 103,
+		"B": 71,
+		"G": 49,
+		"name": "Old mauve"
+	},
+	{
+		"R": 134,
+		"B": 54,
+		"G": 126,
+		"name": "Old moss green"
+	},
+	{
+		"R": 192,
+		"B": 129,
+		"G": 128,
+		"name": "Old rose"
+	},
+	{
+		"R": 132,
+		"B": 130,
+		"G": 132,
+		"name": "Old silver"
+	},
+	{
+		"R": 128,
+		"B": 0,
+		"G": 128,
+		"name": "Olive"
+	},
+	{
+		"R": 107,
+		"B": 35,
+		"G": 142,
+		"name": "Olive Drab (#3)"
+	},
+	{
+		"R": 60,
+		"B": 31,
+		"G": 52,
+		"name": "Olive Drab #7"
+	},
+	{
+		"R": 181,
+		"B": 92,
+		"G": 179,
+		"name": "Olive green"
+	},
+	{
+		"R": 154,
+		"B": 115,
+		"G": 185,
+		"name": "Olivine"
+	},
+	{
+		"R": 53,
+		"B": 57,
+		"G": 56,
+		"name": "Onyx"
+	},
+	{
+		"R": 168,
+		"B": 188,
+		"G": 195,
+		"name": "Opal"
+	},
+	{
+		"R": 183,
+		"B": 167,
+		"G": 132,
+		"name": "Opera mauve"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 102,
+		"name": "Orange"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 127,
+		"name": "Orange (color wheel)"
+	},
+	{
+		"R": 255,
+		"B": 56,
+		"G": 117,
+		"name": "Orange (Crayola)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 88,
+		"name": "Orange (Pantone)"
+	},
+	{
+		"R": 251,
+		"B": 2,
+		"G": 153,
+		"name": "Orange (RYB)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 165,
+		"name": "Orange (web)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 103,
+		"name": "Orange iced tea"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 159,
+		"name": "Orange peel"
+	},
+	{
+		"R": 255,
+		"B": 31,
+		"G": 104,
+		"name": "Orange-red"
+	},
+	{
+		"R": 255,
+		"B": 73,
+		"G": 83,
+		"name": "Orange-red (Crayola)"
+	},
+	{
+		"R": 231,
+		"B": 20,
+		"G": 78,
+		"name": "Orange soda"
+	},
+	{
+		"R": 250,
+		"B": 61,
+		"G": 91,
+		"name": "Orange Soda"
+	},
+	{
+		"R": 245,
+		"B": 31,
+		"G": 189,
+		"name": "Orange-yellow"
+	},
+	{
+		"R": 248,
+		"B": 104,
+		"G": 213,
+		"name": "Orange-yellow (Crayola)"
+	},
+	{
+		"R": 218,
+		"B": 214,
+		"G": 112,
+		"name": "Orchid"
+	},
+	{
+		"R": 242,
+		"B": 205,
+		"G": 189,
+		"name": "Orchid pink"
+	},
+	{
+		"R": 226,
+		"B": 210,
+		"G": 156,
+		"name": "Orchid (Crayola)"
+	},
+	{
+		"R": 251,
+		"B": 20,
+		"G": 79,
+		"name": "Orioles orange"
+	},
+	{
+		"R": 101,
+		"B": 33,
+		"G": 67,
+		"name": "Otter brown"
+	},
+	{
+		"R": 65,
+		"B": 76,
+		"G": 74,
+		"name": "Outer Space"
+	},
+	{
+		"R": 45,
+		"B": 58,
+		"G": 56,
+		"name": "Outer Space (Crayola)"
+	},
+	{
+		"R": 255,
+		"B": 74,
+		"G": 110,
+		"name": "Outrageous Orange"
+	},
+	{
+		"R": 128,
+		"B": 32,
+		"G": 0,
+		"name": "Oxblood"
+	},
+	{
+		"R": 0,
+		"B": 71,
+		"G": 33,
+		"name": "Oxford Blue"
+	},
+	{
+		"R": 109,
+		"B": 121,
+		"G": 154,
+		"name": "Oxley"
+	},
+	{
+		"R": 153,
+		"B": 0,
+		"G": 0,
+		"name": "OU Crimson Red"
+	},
+	{
+		"R": 28,
+		"B": 201,
+		"G": 169,
+		"name": "Pacific Blue"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 102,
+		"name": "Pakistan green"
+	},
+	{
+		"R": 39,
+		"B": 226,
+		"G": 59,
+		"name": "Palatinate blue"
+	},
+	{
+		"R": 104,
+		"B": 96,
+		"G": 40,
+		"name": "Palatinate purple"
+	},
+	{
+		"R": 188,
+		"B": 230,
+		"G": 212,
+		"name": "Pale aqua"
+	},
+	{
+		"R": 175,
+		"B": 238,
+		"G": 238,
+		"name": "Pale blue"
+	},
+	{
+		"R": 152,
+		"B": 84,
+		"G": 118,
+		"name": "Pale brown"
+	},
+	{
+		"R": 175,
+		"B": 53,
+		"G": 64,
+		"name": "Pale carmine"
+	},
+	{
+		"R": 155,
+		"B": 226,
+		"G": 196,
+		"name": "Pale cerulean"
+	},
+	{
+		"R": 221,
+		"B": 175,
+		"G": 173,
+		"name": "Pale chestnut"
+	},
+	{
+		"R": 218,
+		"B": 103,
+		"G": 138,
+		"name": "Pale copper"
+	},
+	{
+		"R": 171,
+		"B": 239,
+		"G": 205,
+		"name": "Pale cornflower blue"
+	},
+	{
+		"R": 135,
+		"B": 248,
+		"G": 211,
+		"name": "Pale cyan"
+	},
+	{
+		"R": 230,
+		"B": 138,
+		"G": 190,
+		"name": "Pale gold"
+	},
+	{
+		"R": 238,
+		"B": 170,
+		"G": 232,
+		"name": "Pale goldenrod"
+	},
+	{
+		"R": 152,
+		"B": 152,
+		"G": 251,
+		"name": "Pale green"
+	},
+	{
+		"R": 220,
+		"B": 255,
+		"G": 208,
+		"name": "Pale lavender"
+	},
+	{
+		"R": 249,
+		"B": 229,
+		"G": 132,
+		"name": "Pale magenta"
+	},
+	{
+		"R": 255,
+		"B": 204,
+		"G": 153,
+		"name": "Pale magenta-pink"
+	},
+	{
+		"R": 250,
+		"B": 221,
+		"G": 218,
+		"name": "Pale pink"
+	},
+	{
+		"R": 221,
+		"B": 221,
+		"G": 160,
+		"name": "Pale plum"
+	},
+	{
+		"R": 219,
+		"B": 147,
+		"G": 112,
+		"name": "Pale red-violet"
+	},
+	{
+		"R": 150,
+		"B": 209,
+		"G": 222,
+		"name": "Pale robin egg blue"
+	},
+	{
+		"R": 201,
+		"B": 187,
+		"G": 192,
+		"name": "Pale silver"
+	},
+	{
+		"R": 236,
+		"B": 189,
+		"G": 235,
+		"name": "Pale spring bud"
+	},
+	{
+		"R": 188,
+		"B": 126,
+		"G": 152,
+		"name": "Pale taupe"
+	},
+	{
+		"R": 175,
+		"B": 238,
+		"G": 238,
+		"name": "Pale turquoise"
+	},
+	{
+		"R": 204,
+		"B": 255,
+		"G": 153,
+		"name": "Pale violet"
+	},
+	{
+		"R": 219,
+		"B": 147,
+		"G": 112,
+		"name": "Pale violet-red"
+	},
+	{
+		"R": 111,
+		"B": 64,
+		"G": 153,
+		"name": "Palm Leaf"
+	},
+	{
+		"R": 120,
+		"B": 74,
+		"G": 24,
+		"name": "Pansy purple"
+	},
+	{
+		"R": 0,
+		"B": 125,
+		"G": 155,
+		"name": "Paolo Veronese green"
+	},
+	{
+		"R": 255,
+		"B": 213,
+		"G": 239,
+		"name": "Papaya whip"
+	},
+	{
+		"R": 230,
+		"B": 98,
+		"G": 62,
+		"name": "Paradise pink"
+	},
+	{
+		"R": 80,
+		"B": 120,
+		"G": 200,
+		"name": "Paris Green"
+	},
+	{
+		"R": 217,
+		"B": 160,
+		"G": 152,
+		"name": "Parrot Pink"
+	},
+	{
+		"R": 174,
+		"B": 207,
+		"G": 198,
+		"name": "Pastel blue"
+	},
+	{
+		"R": 131,
+		"B": 83,
+		"G": 105,
+		"name": "Pastel brown"
+	},
+	{
+		"R": 207,
+		"B": 196,
+		"G": 207,
+		"name": "Pastel gray"
+	},
+	{
+		"R": 119,
+		"B": 119,
+		"G": 221,
+		"name": "Pastel green"
+	},
+	{
+		"R": 244,
+		"B": 194,
+		"G": 154,
+		"name": "Pastel magenta"
+	},
+	{
+		"R": 255,
+		"B": 71,
+		"G": 179,
+		"name": "Pastel orange"
+	},
+	{
+		"R": 222,
+		"B": 164,
+		"G": 165,
+		"name": "Pastel pink"
+	},
+	{
+		"R": 179,
+		"B": 181,
+		"G": 158,
+		"name": "Pastel purple"
+	},
+	{
+		"R": 255,
+		"B": 97,
+		"G": 105,
+		"name": "Pastel red"
+	},
+	{
+		"R": 203,
+		"B": 201,
+		"G": 153,
+		"name": "Pastel violet"
+	},
+	{
+		"R": 253,
+		"B": 150,
+		"G": 253,
+		"name": "Pastel yellow"
+	},
+	{
+		"R": 128,
+		"B": 128,
+		"G": 0,
+		"name": "Patriarch"
+	},
+	{
+		"R": 83,
+		"B": 120,
+		"G": 104,
+		"name": "Payne's grey"
+	},
+	{
+		"R": 255,
+		"B": 180,
+		"G": 229,
+		"name": "Peach"
+	},
+	{
+		"R": 255,
+		"B": 164,
+		"G": 203,
+		"name": "Peach"
+	},
+	{
+		"R": 255,
+		"B": 153,
+		"G": 204,
+		"name": "Peach-orange"
+	},
+	{
+		"R": 255,
+		"B": 185,
+		"G": 218,
+		"name": "Peach puff"
+	},
+	{
+		"R": 250,
+		"B": 173,
+		"G": 223,
+		"name": "Peach-yellow"
+	},
+	{
+		"R": 209,
+		"B": 49,
+		"G": 226,
+		"name": "Pear"
+	},
+	{
+		"R": 234,
+		"B": 200,
+		"G": 224,
+		"name": "Pearl"
+	},
+	{
+		"R": 136,
+		"B": 192,
+		"G": 216,
+		"name": "Pearl Aqua"
+	},
+	{
+		"R": 183,
+		"B": 162,
+		"G": 104,
+		"name": "Pearly purple"
+	},
+	{
+		"R": 230,
+		"B": 0,
+		"G": 226,
+		"name": "Peridot"
+	},
+	{
+		"R": 204,
+		"B": 255,
+		"G": 204,
+		"name": "Periwinkle"
+	},
+	{
+		"R": 195,
+		"B": 230,
+		"G": 205,
+		"name": "Periwinkle (Crayola)"
+	},
+	{
+		"R": 225,
+		"B": 44,
+		"G": 44,
+		"name": "Permanent Geranium Lake"
+	},
+	{
+		"R": 28,
+		"B": 187,
+		"G": 57,
+		"name": "Persian blue"
+	},
+	{
+		"R": 0,
+		"B": 147,
+		"G": 166,
+		"name": "Persian green"
+	},
+	{
+		"R": 50,
+		"B": 122,
+		"G": 18,
+		"name": "Persian indigo"
+	},
+	{
+		"R": 217,
+		"B": 88,
+		"G": 144,
+		"name": "Persian orange"
+	},
+	{
+		"R": 247,
+		"B": 190,
+		"G": 127,
+		"name": "Persian pink"
+	},
+	{
+		"R": 112,
+		"B": 28,
+		"G": 28,
+		"name": "Persian plum"
+	},
+	{
+		"R": 204,
+		"B": 51,
+		"G": 51,
+		"name": "Persian red"
+	},
+	{
+		"R": 254,
+		"B": 162,
+		"G": 40,
+		"name": "Persian rose"
+	},
+	{
+		"R": 236,
+		"B": 0,
+		"G": 88,
+		"name": "Persimmon"
+	},
+	{
+		"R": 205,
+		"B": 63,
+		"G": 133,
+		"name": "Peru"
+	},
+	{
+		"R": 139,
+		"B": 183,
+		"G": 168,
+		"name": "Pewter Blue"
+	},
+	{
+		"R": 0,
+		"B": 167,
+		"G": 56,
+		"name": "Philippine blue"
+	},
+	{
+		"R": 110,
+		"B": 7,
+		"G": 58,
+		"name": "Philippine bronze"
+	},
+	{
+		"R": 93,
+		"B": 22,
+		"G": 25,
+		"name": "Philippine brown"
+	},
+	{
+		"R": 177,
+		"B": 4,
+		"G": 115,
+		"name": "Philippine gold"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 223,
+		"name": "Philippine golden yellow"
+	},
+	{
+		"R": 140,
+		"B": 140,
+		"G": 140,
+		"name": "Philippine gray"
+	},
+	{
+		"R": 0,
+		"B": 67,
+		"G": 133,
+		"name": "Philippine green"
+	},
+	{
+		"R": 0,
+		"B": 106,
+		"G": 65,
+		"name": "Philippine indigo"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 115,
+		"name": "Philippine orange"
+	},
+	{
+		"R": 250,
+		"B": 142,
+		"G": 26,
+		"name": "Philippine pink"
+	},
+	{
+		"R": 206,
+		"B": 39,
+		"G": 17,
+		"name": "Philippine red"
+	},
+	{
+		"R": 179,
+		"B": 179,
+		"G": 179,
+		"name": "Philippine silver"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 102,
+		"name": "Philippine sky blue"
+	},
+	{
+		"R": 129,
+		"B": 127,
+		"G": 0,
+		"name": "Philippine violet"
+	},
+	{
+		"R": 254,
+		"B": 0,
+		"G": 203,
+		"name": "Philippine yellow"
+	},
+	{
+		"R": 223,
+		"B": 255,
+		"G": 0,
+		"name": "Phlox"
+	},
+	{
+		"R": 0,
+		"B": 137,
+		"G": 15,
+		"name": "Phthalo blue"
+	},
+	{
+		"R": 18,
+		"B": 36,
+		"G": 53,
+		"name": "Phthalo green"
+	},
+	{
+		"R": 69,
+		"B": 232,
+		"G": 177,
+		"name": "Picton blue"
+	},
+	{
+		"R": 195,
+		"B": 78,
+		"G": 11,
+		"name": "Pictorial carmine"
+	},
+	{
+		"R": 253,
+		"B": 230,
+		"G": 221,
+		"name": "Piggy pink"
+	},
+	{
+		"R": 1,
+		"B": 111,
+		"G": 121,
+		"name": "Pine green"
+	},
+	{
+		"R": 42,
+		"B": 35,
+		"G": 47,
+		"name": "Pine tree"
+	},
+	{
+		"R": 86,
+		"B": 13,
+		"G": 60,
+		"name": "Pineapple"
+	},
+	{
+		"R": 255,
+		"B": 203,
+		"G": 192,
+		"name": "Pink"
+	},
+	{
+		"R": 215,
+		"B": 148,
+		"G": 72,
+		"name": "Pink (Pantone)"
+	},
+	{
+		"R": 252,
+		"B": 253,
+		"G": 116,
+		"name": "Pink Flamingo"
+	},
+	{
+		"R": 255,
+		"B": 244,
+		"G": 221,
+		"name": "Pink lace"
+	},
+	{
+		"R": 216,
+		"B": 209,
+		"G": 178,
+		"name": "Pink lavender"
+	},
+	{
+		"R": 255,
+		"B": 102,
+		"G": 153,
+		"name": "Pink-orange"
+	},
+	{
+		"R": 231,
+		"B": 207,
+		"G": 172,
+		"name": "Pink pearl"
+	},
+	{
+		"R": 152,
+		"B": 54,
+		"G": 0,
+		"name": "Pink raspberry"
+	},
+	{
+		"R": 247,
+		"B": 167,
+		"G": 143,
+		"name": "Pink Sherbet"
+	},
+	{
+		"R": 147,
+		"B": 114,
+		"G": 197,
+		"name": "Pistachio"
+	},
+	{
+		"R": 57,
+		"B": 133,
+		"G": 18,
+		"name": "Pixie Powder"
+	},
+	{
+		"R": 229,
+		"B": 226,
+		"G": 228,
+		"name": "Platinum"
+	},
+	{
+		"R": 142,
+		"B": 133,
+		"G": 69,
+		"name": "Plum"
+	},
+	{
+		"R": 221,
+		"B": 221,
+		"G": 160,
+		"name": "Plum (web)"
+	},
+	{
+		"R": 89,
+		"B": 178,
+		"G": 70,
+		"name": "Plump Purple"
+	},
+	{
+		"R": 55,
+		"B": 107,
+		"G": 79,
+		"name": "Police blue"
+	},
+	{
+		"R": 93,
+		"B": 147,
+		"G": 164,
+		"name": "Polished Pine"
+	},
+	{
+		"R": 134,
+		"B": 142,
+		"G": 96,
+		"name": "Pomp and Power"
+	},
+	{
+		"R": 190,
+		"B": 98,
+		"G": 79,
+		"name": "Popstar"
+	},
+	{
+		"R": 255,
+		"B": 54,
+		"G": 90,
+		"name": "Portland Orange"
+	},
+	{
+		"R": 176,
+		"B": 230,
+		"G": 224,
+		"name": "Powder blue"
+	},
+	{
+		"R": 255,
+		"B": 207,
+		"G": 133,
+		"name": "Princess Perfume"
+	},
+	{
+		"R": 245,
+		"B": 37,
+		"G": 128,
+		"name": "Princeton orange"
+	},
+	{
+		"R": 112,
+		"B": 28,
+		"G": 28,
+		"name": "Prune"
+	},
+	{
+		"R": 0,
+		"B": 83,
+		"G": 49,
+		"name": "Prussian blue"
+	},
+	{
+		"R": 223,
+		"B": 255,
+		"G": 0,
+		"name": "Psychedelic purple"
+	},
+	{
+		"R": 204,
+		"B": 153,
+		"G": 136,
+		"name": "Puce"
+	},
+	{
+		"R": 114,
+		"B": 55,
+		"G": 47,
+		"name": "Puce red"
+	},
+	{
+		"R": 100,
+		"B": 23,
+		"G": 65,
+		"name": "Pullman Brown (UPS Brown)"
+	},
+	{
+		"R": 59,
+		"B": 28,
+		"G": 51,
+		"name": "Pullman Green"
+	},
+	{
+		"R": 255,
+		"B": 24,
+		"G": 117,
+		"name": "Pumpkin"
+	},
+	{
+		"R": 128,
+		"B": 128,
+		"G": 0,
+		"name": "Purple (HTML)"
+	},
+	{
+		"R": 159,
+		"B": 197,
+		"G": 0,
+		"name": "Purple (Munsell)"
+	},
+	{
+		"R": 160,
+		"B": 240,
+		"G": 32,
+		"name": "Purple (X11)"
+	},
+	{
+		"R": 105,
+		"B": 156,
+		"G": 53,
+		"name": "Purple Heart"
+	},
+	{
+		"R": 150,
+		"B": 182,
+		"G": 120,
+		"name": "Purple mountain majesty"
+	},
+	{
+		"R": 78,
+		"B": 128,
+		"G": 81,
+		"name": "Purple navy"
+	},
+	{
+		"R": 254,
+		"B": 218,
+		"G": 78,
+		"name": "Purple pizzazz"
+	},
+	{
+		"R": 156,
+		"B": 182,
+		"G": 81,
+		"name": "Purple Plum"
+	},
+	{
+		"R": 80,
+		"B": 77,
+		"G": 64,
+		"name": "Purple taupe"
+	},
+	{
+		"R": 154,
+		"B": 174,
+		"G": 78,
+		"name": "Purpureus"
+	},
+	{
+		"R": 81,
+		"B": 79,
+		"G": 72,
+		"name": "Quartz"
+	},
+	{
+		"R": 67,
+		"B": 149,
+		"G": 107,
+		"name": "Queen blue"
+	},
+	{
+		"R": 232,
+		"B": 215,
+		"G": 204,
+		"name": "Queen pink"
+	},
+	{
+		"R": 166,
+		"B": 166,
+		"G": 166,
+		"name": "Quick Silver"
+	},
+	{
+		"R": 142,
+		"B": 89,
+		"G": 58,
+		"name": "Quinacridone magenta"
+	},
+	{
+		"R": 106,
+		"B": 69,
+		"G": 84,
+		"name": "Quincy"
+	},
+	{
+		"R": 93,
+		"B": 168,
+		"G": 138,
+		"name": "Rackley"
+	},
+	{
+		"R": 255,
+		"B": 94,
+		"G": 53,
+		"name": "Radical Red"
+	},
+	{
+		"R": 36,
+		"B": 36,
+		"G": 33,
+		"name": "Raisin black"
+	},
+	{
+		"R": 251,
+		"B": 96,
+		"G": 171,
+		"name": "Rajah"
+	},
+	{
+		"R": 227,
+		"B": 93,
+		"G": 11,
+		"name": "Raspberry"
+	},
+	{
+		"R": 145,
+		"B": 109,
+		"G": 95,
+		"name": "Raspberry glace"
+	},
+	{
+		"R": 226,
+		"B": 152,
+		"G": 80,
+		"name": "Raspberry pink"
+	},
+	{
+		"R": 179,
+		"B": 108,
+		"G": 68,
+		"name": "Raspberry rose"
+	},
+	{
+		"R": 214,
+		"B": 89,
+		"G": 138,
+		"name": "Raw Sienna"
+	},
+	{
+		"R": 130,
+		"B": 68,
+		"G": 102,
+		"name": "Raw umber"
+	},
+	{
+		"R": 255,
+		"B": 204,
+		"G": 51,
+		"name": "Razzle dazzle rose"
+	},
+	{
+		"R": 227,
+		"B": 107,
+		"G": 37,
+		"name": "Razzmatazz"
+	},
+	{
+		"R": 141,
+		"B": 133,
+		"G": 78,
+		"name": "Razzmic Berry"
+	},
+	{
+		"R": 102,
+		"B": 153,
+		"G": 51,
+		"name": "Rebecca Purple"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 0,
+		"name": "Red"
+	},
+	{
+		"R": 238,
+		"B": 77,
+		"G": 32,
+		"name": "Red (Crayola)"
+	},
+	{
+		"R": 242,
+		"B": 60,
+		"G": 0,
+		"name": "Red (Munsell)"
+	},
+	{
+		"R": 196,
+		"B": 51,
+		"G": 2,
+		"name": "Red (NCS)"
+	},
+	{
+		"R": 237,
+		"B": 57,
+		"G": 41,
+		"name": "Red (Pantone)"
+	},
+	{
+		"R": 237,
+		"B": 36,
+		"G": 28,
+		"name": "Red (pigment)"
+	},
+	{
+		"R": 254,
+		"B": 18,
+		"G": 39,
+		"name": "Red (RYB)"
+	},
+	{
+		"R": 165,
+		"B": 42,
+		"G": 42,
+		"name": "Red-brown"
+	},
+	{
+		"R": 223,
+		"B": 24,
+		"G": 1,
+		"name": "Red cola"
+	},
+	{
+		"R": 134,
+		"B": 17,
+		"G": 1,
+		"name": "Red devil"
+	},
+	{
+		"R": 255,
+		"B": 73,
+		"G": 83,
+		"name": "Red-orange"
+	},
+	{
+		"R": 255,
+		"B": 31,
+		"G": 104,
+		"name": "Red-orange (Crayola)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 69,
+		"name": "Red-orange (Color wheel)"
+	},
+	{
+		"R": 228,
+		"B": 120,
+		"G": 0,
+		"name": "Red-purple"
+	},
+	{
+		"R": 151,
+		"B": 74,
+		"G": 58,
+		"name": "Red rum"
+	},
+	{
+		"R": 253,
+		"B": 74,
+		"G": 58,
+		"name": "Red Salsa"
+	},
+	{
+		"R": 236,
+		"B": 4,
+		"G": 3,
+		"name": "Red strawberry"
+	},
+	{
+		"R": 199,
+		"B": 133,
+		"G": 21,
+		"name": "Red-violet"
+	},
+	{
+		"R": 192,
+		"B": 143,
+		"G": 68,
+		"name": "Red-violet (Crayola)"
+	},
+	{
+		"R": 146,
+		"B": 62,
+		"G": 43,
+		"name": "Red-violet (Color wheel)"
+	},
+	{
+		"R": 164,
+		"B": 82,
+		"G": 90,
+		"name": "Redwood"
+	},
+	{
+		"R": 82,
+		"B": 128,
+		"G": 45,
+		"name": "Regalia"
+	},
+	{
+		"R": 0,
+		"B": 0,
+		"G": 0,
+		"name": "Registration black"
+	},
+	{
+		"R": 0,
+		"B": 135,
+		"G": 35,
+		"name": "Resolution blue"
+	},
+	{
+		"R": 119,
+		"B": 150,
+		"G": 118,
+		"name": "Rhythm"
+	},
+	{
+		"R": 0,
+		"B": 64,
+		"G": 64,
+		"name": "Rich black"
+	},
+	{
+		"R": 1,
+		"B": 19,
+		"G": 11,
+		"name": "Rich black (FOGRA29)"
+	},
+	{
+		"R": 1,
+		"B": 3,
+		"G": 2,
+		"name": "Rich black (FOGRA39)"
+	},
+	{
+		"R": 241,
+		"B": 254,
+		"G": 167,
+		"name": "Rich brilliant lavender"
+	},
+	{
+		"R": 215,
+		"B": 64,
+		"G": 0,
+		"name": "Rich carmine"
+	},
+	{
+		"R": 8,
+		"B": 208,
+		"G": 146,
+		"name": "Rich electric blue"
+	},
+	{
+		"R": 167,
+		"B": 207,
+		"G": 107,
+		"name": "Rich lavender"
+	},
+	{
+		"R": 182,
+		"B": 210,
+		"G": 102,
+		"name": "Rich lilac"
+	},
+	{
+		"R": 176,
+		"B": 96,
+		"G": 48,
+		"name": "Rich maroon"
+	},
+	{
+		"R": 68,
+		"B": 56,
+		"G": 76,
+		"name": "Rifle green"
+	},
+	{
+		"R": 255,
+		"B": 36,
+		"G": 195,
+		"name": "Ripe mango"
+	},
+	{
+		"R": 112,
+		"B": 65,
+		"G": 66,
+		"name": "Roast coffee"
+	},
+	{
+		"R": 0,
+		"B": 204,
+		"G": 204,
+		"name": "Robin egg blue"
+	},
+	{
+		"R": 138,
+		"B": 128,
+		"G": 127,
+		"name": "Rocket metallic"
+	},
+	{
+		"R": 131,
+		"B": 150,
+		"G": 137,
+		"name": "Roman silver"
+	},
+	{
+		"R": 41,
+		"B": 5,
+		"G": 14,
+		"name": "Root beer"
+	},
+	{
+		"R": 255,
+		"B": 127,
+		"G": 0,
+		"name": "Rose"
+	},
+	{
+		"R": 249,
+		"B": 158,
+		"G": 66,
+		"name": "Rose bonbon"
+	},
+	{
+		"R": 158,
+		"B": 111,
+		"G": 94,
+		"name": "Rose Dust"
+	},
+	{
+		"R": 103,
+		"B": 70,
+		"G": 72,
+		"name": "Rose ebony"
+	},
+	{
+		"R": 150,
+		"B": 69,
+		"G": 1,
+		"name": "Rose garnet"
+	},
+	{
+		"R": 183,
+		"B": 121,
+		"G": 110,
+		"name": "Rose gold"
+	},
+	{
+		"R": 227,
+		"B": 54,
+		"G": 38,
+		"name": "Rose madder"
+	},
+	{
+		"R": 255,
+		"B": 204,
+		"G": 102,
+		"name": "Rose pink"
+	},
+	{
+		"R": 170,
+		"B": 169,
+		"G": 152,
+		"name": "Rose quartz"
+	},
+	{
+		"R": 189,
+		"B": 156,
+		"G": 85,
+		"name": "Rose quartz pink"
+	},
+	{
+		"R": 194,
+		"B": 86,
+		"G": 30,
+		"name": "Rose red"
+	},
+	{
+		"R": 144,
+		"B": 93,
+		"G": 93,
+		"name": "Rose taupe"
+	},
+	{
+		"R": 171,
+		"B": 82,
+		"G": 78,
+		"name": "Rose vale"
+	},
+	{
+		"R": 101,
+		"B": 11,
+		"G": 0,
+		"name": "Rosewood"
+	},
+	{
+		"R": 212,
+		"B": 0,
+		"G": 0,
+		"name": "Rosso corsa"
+	},
+	{
+		"R": 188,
+		"B": 143,
+		"G": 143,
+		"name": "Rosy brown"
+	},
+	{
+		"R": 0,
+		"B": 168,
+		"G": 56,
+		"name": "Royal azure"
+	},
+	{
+		"R": 0,
+		"B": 102,
+		"G": 35,
+		"name": "Royal blue"
+	},
+	{
+		"R": 65,
+		"B": 225,
+		"G": 105,
+		"name": "Royal blue"
+	},
+	{
+		"R": 82,
+		"B": 53,
+		"G": 59,
+		"name": "Royal brown"
+	},
+	{
+		"R": 202,
+		"B": 146,
+		"G": 44,
+		"name": "Royal fuchsia"
+	},
+	{
+		"R": 19,
+		"B": 7,
+		"G": 98,
+		"name": "Royal green"
+	},
+	{
+		"R": 249,
+		"B": 69,
+		"G": 146,
+		"name": "Royal orange"
+	},
+	{
+		"R": 231,
+		"B": 149,
+		"G": 56,
+		"name": "Royal pink"
+	},
+	{
+		"R": 155,
+		"B": 49,
+		"G": 28,
+		"name": "Royal red"
+	},
+	{
+		"R": 208,
+		"B": 96,
+		"G": 0,
+		"name": "Royal red"
+	},
+	{
+		"R": 120,
+		"B": 169,
+		"G": 81,
+		"name": "Royal purple"
+	},
+	{
+		"R": 250,
+		"B": 94,
+		"G": 218,
+		"name": "Royal yellow"
+	},
+	{
+		"R": 206,
+		"B": 118,
+		"G": 70,
+		"name": "Ruber"
+	},
+	{
+		"R": 209,
+		"B": 86,
+		"G": 0,
+		"name": "Rubine red"
+	},
+	{
+		"R": 224,
+		"B": 95,
+		"G": 17,
+		"name": "Ruby"
+	},
+	{
+		"R": 155,
+		"B": 30,
+		"G": 17,
+		"name": "Ruby red"
+	},
+	{
+		"R": 255,
+		"B": 40,
+		"G": 0,
+		"name": "Ruddy"
+	},
+	{
+		"R": 187,
+		"B": 40,
+		"G": 101,
+		"name": "Ruddy brown"
+	},
+	{
+		"R": 225,
+		"B": 150,
+		"G": 142,
+		"name": "Ruddy pink"
+	},
+	{
+		"R": 168,
+		"B": 7,
+		"G": 28,
+		"name": "Rufous"
+	},
+	{
+		"R": 154,
+		"B": 64,
+		"G": 78,
+		"name": "Rum"
+	},
+	{
+		"R": 128,
+		"B": 27,
+		"G": 70,
+		"name": "Russet"
+	},
+	{
+		"R": 103,
+		"B": 103,
+		"G": 146,
+		"name": "Russian green"
+	},
+	{
+		"R": 50,
+		"B": 77,
+		"G": 23,
+		"name": "Russian violet"
+	},
+	{
+		"R": 183,
+		"B": 14,
+		"G": 65,
+		"name": "Rust"
+	},
+	{
+		"R": 218,
+		"B": 67,
+		"G": 44,
+		"name": "Rusty red"
+	},
+	{
+		"R": 4,
+		"B": 39,
+		"G": 57,
+		"name": "Sacramento State green"
+	},
+	{
+		"R": 139,
+		"B": 19,
+		"G": 69,
+		"name": "Saddle brown"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 120,
+		"name": "Safety orange"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 103,
+		"name": "Safety orange (blaze orange)"
+	},
+	{
+		"R": 238,
+		"B": 2,
+		"G": 210,
+		"name": "Safety yellow"
+	},
+	{
+		"R": 244,
+		"B": 48,
+		"G": 196,
+		"name": "Saffron"
+	},
+	{
+		"R": 188,
+		"B": 138,
+		"G": 184,
+		"name": "Sage"
+	},
+	{
+		"R": 35,
+		"B": 122,
+		"G": 41,
+		"name": "St. Patrick's blue"
+	},
+	{
+		"R": 23,
+		"B": 77,
+		"G": 123,
+		"name": "Salem"
+	},
+	{
+		"R": 250,
+		"B": 114,
+		"G": 128,
+		"name": "Salmon"
+	},
+	{
+		"R": 255,
+		"B": 164,
+		"G": 145,
+		"name": "Salmon pink"
+	},
+	{
+		"R": 194,
+		"B": 128,
+		"G": 178,
+		"name": "Sand"
+	},
+	{
+		"R": 150,
+		"B": 23,
+		"G": 113,
+		"name": "Sand dune"
+	},
+	{
+		"R": 236,
+		"B": 64,
+		"G": 213,
+		"name": "Sandstorm"
+	},
+	{
+		"R": 244,
+		"B": 96,
+		"G": 164,
+		"name": "Sandy brown"
+	},
+	{
+		"R": 253,
+		"B": 181,
+		"G": 217,
+		"name": "Sandy Tan"
+	},
+	{
+		"R": 150,
+		"B": 23,
+		"G": 113,
+		"name": "Sandy taupe"
+	},
+	{
+		"R": 146,
+		"B": 10,
+		"G": 0,
+		"name": "Sangria"
+	},
+	{
+		"R": 80,
+		"B": 42,
+		"G": 125,
+		"name": "Sap green"
+	},
+	{
+		"R": 15,
+		"B": 186,
+		"G": 82,
+		"name": "Sapphire"
+	},
+	{
+		"R": 0,
+		"B": 165,
+		"G": 103,
+		"name": "Sapphire blue"
+	},
+	{
+		"R": 255,
+		"B": 129,
+		"G": 70,
+		"name": "Sasquatch Socks"
+	},
+	{
+		"R": 203,
+		"B": 53,
+		"G": 161,
+		"name": "Satin sheen gold"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 36,
+		"name": "Scarlet"
+	},
+	{
+		"R": 253,
+		"B": 53,
+		"G": 14,
+		"name": "Scarlet"
+	},
+	{
+		"R": 255,
+		"B": 175,
+		"G": 145,
+		"name": "Schauss pink"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 216,
+		"name": "School bus yellow"
+	},
+	{
+		"R": 102,
+		"B": 102,
+		"G": 255,
+		"name": "Screamin' Green"
+	},
+	{
+		"R": 0,
+		"B": 148,
+		"G": 105,
+		"name": "Sea blue"
+	},
+	{
+		"R": 159,
+		"B": 191,
+		"G": 226,
+		"name": "Sea Foam Green"
+	},
+	{
+		"R": 46,
+		"B": 87,
+		"G": 139,
+		"name": "Sea green"
+	},
+	{
+		"R": 0,
+		"B": 205,
+		"G": 255,
+		"name": "Sea green (Crayola)"
+	},
+	{
+		"R": 75,
+		"B": 207,
+		"G": 199,
+		"name": "Sea Serpent"
+	},
+	{
+		"R": 89,
+		"B": 11,
+		"G": 38,
+		"name": "Seal brown"
+	},
+	{
+		"R": 255,
+		"B": 238,
+		"G": 245,
+		"name": "Seashell"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 186,
+		"name": "Selective yellow"
+	},
+	{
+		"R": 112,
+		"B": 20,
+		"G": 66,
+		"name": "Sepia"
+	},
+	{
+		"R": 138,
+		"B": 93,
+		"G": 121,
+		"name": "Shadow"
+	},
+	{
+		"R": 119,
+		"B": 165,
+		"G": 139,
+		"name": "Shadow blue"
+	},
+	{
+		"R": 255,
+		"B": 241,
+		"G": 207,
+		"name": "Shampoo"
+	},
+	{
+		"R": 0,
+		"B": 96,
+		"G": 158,
+		"name": "Shamrock green"
+	},
+	{
+		"R": 255,
+		"B": 112,
+		"G": 230,
+		"name": "Shandy"
+	},
+	{
+		"R": 143,
+		"B": 0,
+		"G": 212,
+		"name": "Sheen Green"
+	},
+	{
+		"R": 217,
+		"B": 149,
+		"G": 134,
+		"name": "Shimmering Blush"
+	},
+	{
+		"R": 95,
+		"B": 120,
+		"G": 167,
+		"name": "Shiny Shamrock"
+	},
+	{
+		"R": 252,
+		"B": 192,
+		"G": 15,
+		"name": "Shocking pink"
+	},
+	{
+		"R": 255,
+		"B": 255,
+		"G": 111,
+		"name": "Shocking pink (Crayola)"
+	},
+	{
+		"R": 136,
+		"B": 23,
+		"G": 45,
+		"name": "Sienna"
+	},
+	{
+		"R": 192,
+		"B": 192,
+		"G": 192,
+		"name": "Silver"
+	},
+	{
+		"R": 201,
+		"B": 187,
+		"G": 192,
+		"name": "Silver (Crayola)"
+	},
+	{
+		"R": 170,
+		"B": 173,
+		"G": 169,
+		"name": "Silver (Metallic)"
+	},
+	{
+		"R": 172,
+		"B": 172,
+		"G": 172,
+		"name": "Silver chalice"
+	},
+	{
+		"R": 175,
+		"B": 174,
+		"G": 177,
+		"name": "Silver foil"
+	},
+	{
+		"R": 93,
+		"B": 186,
+		"G": 137,
+		"name": "Silver Lake blue"
+	},
+	{
+		"R": 196,
+		"B": 173,
+		"G": 174,
+		"name": "Silver pink"
+	},
+	{
+		"R": 191,
+		"B": 194,
+		"G": 193,
+		"name": "Silver sand"
+	},
+	{
+		"R": 203,
+		"B": 11,
+		"G": 65,
+		"name": "Sinopia"
+	},
+	{
+		"R": 255,
+		"B": 85,
+		"G": 56,
+		"name": "Sizzling Red"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 219,
+		"name": "Sizzling Sunrise"
+	},
+	{
+		"R": 0,
+		"B": 116,
+		"G": 116,
+		"name": "Skobeloff"
+	},
+	{
+		"R": 135,
+		"B": 235,
+		"G": 206,
+		"name": "Sky blue"
+	},
+	{
+		"R": 118,
+		"B": 234,
+		"G": 215,
+		"name": "Sky blue (Crayola)"
+	},
+	{
+		"R": 207,
+		"B": 175,
+		"G": 113,
+		"name": "Sky magenta"
+	},
+	{
+		"R": 106,
+		"B": 205,
+		"G": 90,
+		"name": "Slate blue"
+	},
+	{
+		"R": 112,
+		"B": 144,
+		"G": 128,
+		"name": "Slate gray"
+	},
+	{
+		"R": 41,
+		"B": 23,
+		"G": 150,
+		"name": "Slimy Green"
+	},
+	{
+		"R": 0,
+		"B": 153,
+		"G": 51,
+		"name": "Smalt (Dark powder blue)"
+	},
+	{
+		"R": 255,
+		"B": 58,
+		"G": 109,
+		"name": "Smashed Pumpkin"
+	},
+	{
+		"R": 200,
+		"B": 134,
+		"G": 65,
+		"name": "Smitten"
+	},
+	{
+		"R": 115,
+		"B": 118,
+		"G": 130,
+		"name": "Smoke"
+	},
+	{
+		"R": 131,
+		"B": 13,
+		"G": 42,
+		"name": "Smokey Topaz"
+	},
+	{
+		"R": 16,
+		"B": 8,
+		"G": 12,
+		"name": "Smoky black"
+	},
+	{
+		"R": 147,
+		"B": 65,
+		"G": 61,
+		"name": "Smoky Topaz"
+	},
+	{
+		"R": 255,
+		"B": 250,
+		"G": 250,
+		"name": "Snow"
+	},
+	{
+		"R": 206,
+		"B": 239,
+		"G": 200,
+		"name": "Soap"
+	},
+	{
+		"R": 84,
+		"B": 44,
+		"G": 90,
+		"name": "Soldier Green"
+	},
+	{
+		"R": 137,
+		"B": 67,
+		"G": 56,
+		"name": "Solid pink"
+	},
+	{
+		"R": 117,
+		"B": 117,
+		"G": 117,
+		"name": "Sonic silver"
+	},
+	{
+		"R": 158,
+		"B": 22,
+		"G": 19,
+		"name": "Spartan Crimson"
+	},
+	{
+		"R": 29,
+		"B": 81,
+		"G": 41,
+		"name": "Space cadet"
+	},
+	{
+		"R": 128,
+		"B": 50,
+		"G": 117,
+		"name": "Spanish bistre"
+	},
+	{
+		"R": 0,
+		"B": 184,
+		"G": 112,
+		"name": "Spanish blue"
+	},
+	{
+		"R": 209,
+		"B": 71,
+		"G": 0,
+		"name": "Spanish carmine"
+	},
+	{
+		"R": 229,
+		"B": 76,
+		"G": 26,
+		"name": "Spanish crimson"
+	},
+	{
+		"R": 152,
+		"B": 152,
+		"G": 152,
+		"name": "Spanish gray"
+	},
+	{
+		"R": 0,
+		"B": 80,
+		"G": 145,
+		"name": "Spanish green"
+	},
+	{
+		"R": 232,
+		"B": 0,
+		"G": 97,
+		"name": "Spanish orange"
+	},
+	{
+		"R": 247,
+		"B": 190,
+		"G": 191,
+		"name": "Spanish pink"
+	},
+	{
+		"R": 102,
+		"B": 60,
+		"G": 3,
+		"name": "Spanish purple"
+	},
+	{
+		"R": 230,
+		"B": 38,
+		"G": 0,
+		"name": "Spanish red"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 255,
+		"name": "Spanish sky blue"
+	},
+	{
+		"R": 76,
+		"B": 130,
+		"G": 40,
+		"name": "Spanish violet"
+	},
+	{
+		"R": 0,
+		"B": 92,
+		"G": 127,
+		"name": "Spanish viridian"
+	},
+	{
+		"R": 246,
+		"B": 17,
+		"G": 181,
+		"name": "Spanish yellow"
+	},
+	{
+		"R": 139,
+		"B": 77,
+		"G": 95,
+		"name": "Spicy mix"
+	},
+	{
+		"R": 15,
+		"B": 252,
+		"G": 192,
+		"name": "Spiro Disco Ball"
+	},
+	{
+		"R": 167,
+		"B": 0,
+		"G": 252,
+		"name": "Spring bud"
+	},
+	{
+		"R": 135,
+		"B": 42,
+		"G": 255,
+		"name": "Spring Frost"
+	},
+	{
+		"R": 0,
+		"B": 127,
+		"G": 255,
+		"name": "Spring green"
+	},
+	{
+		"R": 236,
+		"B": 189,
+		"G": 235,
+		"name": "Spring green (Crayola)"
+	},
+	{
+		"R": 0,
+		"B": 184,
+		"G": 123,
+		"name": "Star command blue"
+	},
+	{
+		"R": 70,
+		"B": 180,
+		"G": 130,
+		"name": "Steel blue"
+	},
+	{
+		"R": 204,
+		"B": 204,
+		"G": 51,
+		"name": "Steel pink"
+	},
+	{
+		"R": 95,
+		"B": 139,
+		"G": 138,
+		"name": "Steel Teal"
+	},
+	{
+		"R": 250,
+		"B": 94,
+		"G": 218,
+		"name": "Stil de grain yellow"
+	},
+	{
+		"R": 153,
+		"B": 0,
+		"G": 0,
+		"name": "Stizza"
+	},
+	{
+		"R": 207,
+		"B": 43,
+		"G": 20,
+		"name": "Stop red"
+	},
+	{
+		"R": 79,
+		"B": 106,
+		"G": 102,
+		"name": "Stormcloud"
+	},
+	{
+		"R": 228,
+		"B": 111,
+		"G": 217,
+		"name": "Straw"
+	},
+	{
+		"R": 252,
+		"B": 141,
+		"G": 90,
+		"name": "Strawberry"
+	},
+	{
+		"R": 252,
+		"B": 141,
+		"G": 90,
+		"name": "Strawberry iced tea"
+	},
+	{
+		"R": 200,
+		"B": 73,
+		"G": 63,
+		"name": "Strawberry red"
+	},
+	{
+		"R": 145,
+		"B": 117,
+		"G": 78,
+		"name": "Sugar Plum"
+	},
+	{
+		"R": 255,
+		"B": 76,
+		"G": 64,
+		"name": "Sunburnt Cyclops"
+	},
+	{
+		"R": 255,
+		"B": 51,
+		"G": 204,
+		"name": "Sunglow"
+	},
+	{
+		"R": 242,
+		"B": 122,
+		"G": 242,
+		"name": "Sunny"
+	},
+	{
+		"R": 227,
+		"B": 87,
+		"G": 171,
+		"name": "Sunray"
+	},
+	{
+		"R": 250,
+		"B": 165,
+		"G": 214,
+		"name": "Sunset"
+	},
+	{
+		"R": 253,
+		"B": 83,
+		"G": 94,
+		"name": "Sunset orange"
+	},
+	{
+		"R": 207,
+		"B": 169,
+		"G": 107,
+		"name": "Super pink"
+	},
+	{
+		"R": 168,
+		"B": 49,
+		"G": 55,
+		"name": "Sweet Brown"
+	},
+	{
+		"R": 210,
+		"B": 140,
+		"G": 180,
+		"name": "Tan"
+	},
+	{
+		"R": 217,
+		"B": 108,
+		"G": 154,
+		"name": "Tan (Crayola)"
+	},
+	{
+		"R": 249,
+		"B": 0,
+		"G": 77,
+		"name": "Tangelo"
+	},
+	{
+		"R": 242,
+		"B": 0,
+		"G": 133,
+		"name": "Tangerine"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 204,
+		"name": "Tangerine yellow"
+	},
+	{
+		"R": 228,
+		"B": 122,
+		"G": 113,
+		"name": "Tango pink"
+	},
+	{
+		"R": 251,
+		"B": 70,
+		"G": 77,
+		"name": "Tart Orange"
+	},
+	{
+		"R": 72,
+		"B": 50,
+		"G": 60,
+		"name": "Taupe"
+	},
+	{
+		"R": 139,
+		"B": 137,
+		"G": 133,
+		"name": "Taupe gray"
+	},
+	{
+		"R": 208,
+		"B": 192,
+		"G": 240,
+		"name": "Tea green"
+	},
+	{
+		"R": 248,
+		"B": 121,
+		"G": 131,
+		"name": "Tea rose"
+	},
+	{
+		"R": 244,
+		"B": 194,
+		"G": 194,
+		"name": "Tea rose"
+	},
+	{
+		"R": 0,
+		"B": 128,
+		"G": 128,
+		"name": "Teal"
+	},
+	{
+		"R": 54,
+		"B": 136,
+		"G": 117,
+		"name": "Teal blue"
+	},
+	{
+		"R": 153,
+		"B": 179,
+		"G": 230,
+		"name": "Teal deer"
+	},
+	{
+		"R": 0,
+		"B": 127,
+		"G": 130,
+		"name": "Teal green"
+	},
+	{
+		"R": 207,
+		"B": 118,
+		"G": 52,
+		"name": "Telemagenta"
+	},
+	{
+		"R": 60,
+		"B": 38,
+		"G": 33,
+		"name": "Temptress"
+	},
+	{
+		"R": 205,
+		"B": 0,
+		"G": 87,
+		"name": "Tenné (tawny)"
+	},
+	{
+		"R": 226,
+		"B": 91,
+		"G": 114,
+		"name": "Terra cotta"
+	},
+	{
+		"R": 216,
+		"B": 216,
+		"G": 191,
+		"name": "Thistle"
+	},
+	{
+		"R": 235,
+		"B": 215,
+		"G": 176,
+		"name": "Thistle (Crayola)"
+	},
+	{
+		"R": 222,
+		"B": 161,
+		"G": 111,
+		"name": "Thulian pink"
+	},
+	{
+		"R": 252,
+		"B": 172,
+		"G": 137,
+		"name": "Tickle Me Pink"
+	},
+	{
+		"R": 10,
+		"B": 181,
+		"G": 186,
+		"name": "Tiffany Blue"
+	},
+	{
+		"R": 224,
+		"B": 60,
+		"G": 141,
+		"name": "Tiger's eye"
+	},
+	{
+		"R": 219,
+		"B": 210,
+		"G": 215,
+		"name": "Timberwolf"
+	},
+	{
+		"R": 135,
+		"B": 129,
+		"G": 134,
+		"name": "Titanium"
+	},
+	{
+		"R": 238,
+		"B": 0,
+		"G": 230,
+		"name": "Titanium yellow"
+	},
+	{
+		"R": 255,
+		"B": 71,
+		"G": 99,
+		"name": "Tomato"
+	},
+	{
+		"R": 116,
+		"B": 192,
+		"G": 108,
+		"name": "Toolbox"
+	},
+	{
+		"R": 255,
+		"B": 250,
+		"G": 250,
+		"name": "Tooth"
+	},
+	{
+		"R": 255,
+		"B": 124,
+		"G": 200,
+		"name": "Topaz"
+	},
+	{
+		"R": 253,
+		"B": 53,
+		"G": 14,
+		"name": "Tractor red"
+	},
+	{
+		"R": 128,
+		"B": 128,
+		"G": 128,
+		"name": "Trolley Grey"
+	},
+	{
+		"R": 0,
+		"B": 94,
+		"G": 117,
+		"name": "Tropical rain forest"
+	},
+	{
+		"R": 205,
+		"B": 222,
+		"G": 164,
+		"name": "Tropical violet"
+	},
+	{
+		"R": 0,
+		"B": 207,
+		"G": 115,
+		"name": "True Blue"
+	},
+	{
+		"R": 62,
+		"B": 222,
+		"G": 142,
+		"name": "Tufts Blue"
+	},
+	{
+		"R": 255,
+		"B": 141,
+		"G": 135,
+		"name": "Tulip"
+	},
+	{
+		"R": 222,
+		"B": 136,
+		"G": 170,
+		"name": "Tumbleweed"
+	},
+	{
+		"R": 181,
+		"B": 129,
+		"G": 114,
+		"name": "Turkish rose"
+	},
+	{
+		"R": 64,
+		"B": 208,
+		"G": 224,
+		"name": "Turquoise"
+	},
+	{
+		"R": 0,
+		"B": 239,
+		"G": 255,
+		"name": "Turquoise blue"
+	},
+	{
+		"R": 160,
+		"B": 180,
+		"G": 214,
+		"name": "Turquoise green"
+	},
+	{
+		"R": 0,
+		"B": 205,
+		"G": 197,
+		"name": "Turquoise Surf"
+	},
+	{
+		"R": 138,
+		"B": 91,
+		"G": 154,
+		"name": "Turtle green"
+	},
+	{
+		"R": 250,
+		"B": 165,
+		"G": 214,
+		"name": "Tuscan"
+	},
+	{
+		"R": 111,
+		"B": 55,
+		"G": 78,
+		"name": "Tuscan brown"
+	},
+	{
+		"R": 124,
+		"B": 72,
+		"G": 72,
+		"name": "Tuscan red"
+	},
+	{
+		"R": 166,
+		"B": 91,
+		"G": 123,
+		"name": "Tuscan tan"
+	},
+	{
+		"R": 192,
+		"B": 153,
+		"G": 153,
+		"name": "Tuscany"
+	},
+	{
+		"R": 138,
+		"B": 107,
+		"G": 73,
+		"name": "Twilight lavender"
+	},
+	{
+		"R": 102,
+		"B": 60,
+		"G": 2,
+		"name": "Tyrian purple"
+	},
+	{
+		"R": 0,
+		"B": 170,
+		"G": 51,
+		"name": "UA blue"
+	},
+	{
+		"R": 217,
+		"B": 76,
+		"G": 0,
+		"name": "UA red"
+	},
+	{
+		"R": 136,
+		"B": 195,
+		"G": 120,
+		"name": "Ube"
+	},
+	{
+		"R": 83,
+		"B": 149,
+		"G": 104,
+		"name": "UCLA Blue"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 179,
+		"name": "UCLA Gold"
+	},
+	{
+		"R": 186,
+		"B": 1,
+		"G": 0,
+		"name": "UE red"
+	},
+	{
+		"R": 60,
+		"B": 112,
+		"G": 208,
+		"name": "UFO Green"
+	},
+	{
+		"R": 63,
+		"B": 255,
+		"G": 0,
+		"name": "Ultramarine"
+	},
+	{
+		"R": 65,
+		"B": 245,
+		"G": 102,
+		"name": "Ultramarine blue"
+	},
+	{
+		"R": 255,
+		"B": 255,
+		"G": 111,
+		"name": "Ultra pink"
+	},
+	{
+		"R": 252,
+		"B": 133,
+		"G": 108,
+		"name": "Ultra red"
+	},
+	{
+		"R": 99,
+		"B": 71,
+		"G": 81,
+		"name": "Umber"
+	},
+	{
+		"R": 255,
+		"B": 202,
+		"G": 221,
+		"name": "Unbleached silk"
+	},
+	{
+		"R": 91,
+		"B": 229,
+		"G": 146,
+		"name": "United Nations blue"
+	},
+	{
+		"R": 183,
+		"B": 39,
+		"G": 135,
+		"name": "University of California Gold"
+	},
+	{
+		"R": 247,
+		"B": 0,
+		"G": 127,
+		"name": "University of Tennessee Orange"
+	},
+	{
+		"R": 255,
+		"B": 102,
+		"G": 255,
+		"name": "Unmellow yellow"
+	},
+	{
+		"R": 1,
+		"B": 33,
+		"G": 68,
+		"name": "UP Forest green"
+	},
+	{
+		"R": 123,
+		"B": 19,
+		"G": 17,
+		"name": "UP Maroon"
+	},
+	{
+		"R": 174,
+		"B": 41,
+		"G": 32,
+		"name": "Upsdell red"
+	},
+	{
+		"R": 225,
+		"B": 33,
+		"G": 173,
+		"name": "Urobilin"
+	},
+	{
+		"R": 0,
+		"B": 152,
+		"G": 79,
+		"name": "USAFA blue"
+	},
+	{
+		"R": 153,
+		"B": 0,
+		"G": 0,
+		"name": "USC Cardinal"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 204,
+		"name": "USC Gold"
+	},
+	{
+		"R": 211,
+		"B": 63,
+		"G": 0,
+		"name": "Utah Crimson"
+	},
+	{
+		"R": 8,
+		"B": 8,
+		"G": 8,
+		"name": "Vampire black"
+	},
+	{
+		"R": 102,
+		"B": 40,
+		"G": 66,
+		"name": "Van Dyke brown"
+	},
+	{
+		"R": 243,
+		"B": 171,
+		"G": 229,
+		"name": "Vanilla"
+	},
+	{
+		"R": 243,
+		"B": 169,
+		"G": 143,
+		"name": "Vanilla ice"
+	},
+	{
+		"R": 197,
+		"B": 88,
+		"G": 179,
+		"name": "Vegas gold"
+	},
+	{
+		"R": 200,
+		"B": 21,
+		"G": 8,
+		"name": "Venetian red"
+	},
+	{
+		"R": 67,
+		"B": 174,
+		"G": 179,
+		"name": "Verdigris"
+	},
+	{
+		"R": 227,
+		"B": 52,
+		"G": 66,
+		"name": "Vermilion"
+	},
+	{
+		"R": 217,
+		"B": 30,
+		"G": 56,
+		"name": "Vermilion"
+	},
+	{
+		"R": 160,
+		"B": 240,
+		"G": 32,
+		"name": "Veronica"
+	},
+	{
+		"R": 24,
+		"B": 13,
+		"G": 136,
+		"name": "Verse Green"
+	},
+	{
+		"R": 116,
+		"B": 251,
+		"G": 187,
+		"name": "Very light azure"
+	},
+	{
+		"R": 102,
+		"B": 255,
+		"G": 102,
+		"name": "Very light blue"
+	},
+	{
+		"R": 100,
+		"B": 134,
+		"G": 233,
+		"name": "Very light malachite green"
+	},
+	{
+		"R": 255,
+		"B": 119,
+		"G": 176,
+		"name": "Very light tangelo"
+	},
+	{
+		"R": 255,
+		"B": 191,
+		"G": 223,
+		"name": "Very pale orange"
+	},
+	{
+		"R": 255,
+		"B": 191,
+		"G": 255,
+		"name": "Very pale yellow"
+	},
+	{
+		"R": 143,
+		"B": 255,
+		"G": 0,
+		"name": "Violet"
+	},
+	{
+		"R": 110,
+		"B": 192,
+		"G": 0,
+		"name": "Violet (Caran d'Ache)"
+	},
+	{
+		"R": 127,
+		"B": 255,
+		"G": 0,
+		"name": "Violet (color wheel)"
+	},
+	{
+		"R": 150,
+		"B": 127,
+		"G": 61,
+		"name": "Violet (crayola)"
+	},
+	{
+		"R": 134,
+		"B": 175,
+		"G": 1,
+		"name": "Violet (RYB)"
+	},
+	{
+		"R": 238,
+		"B": 238,
+		"G": 130,
+		"name": "Violet (web)"
+	},
+	{
+		"R": 50,
+		"B": 178,
+		"G": 74,
+		"name": "Violet-blue"
+	},
+	{
+		"R": 118,
+		"B": 200,
+		"G": 110,
+		"name": "Violet-blue (Crayola)"
+	},
+	{
+		"R": 247,
+		"B": 148,
+		"G": 83,
+		"name": "Violet-red"
+	},
+	{
+		"R": 137,
+		"B": 70,
+		"G": 20,
+		"name": "Violet-red"
+	},
+	{
+		"R": 103,
+		"B": 3,
+		"G": 68,
+		"name": "Violin Brown"
+	},
+	{
+		"R": 64,
+		"B": 109,
+		"G": 130,
+		"name": "Viridian"
+	},
+	{
+		"R": 0,
+		"B": 152,
+		"G": 150,
+		"name": "Viridian green"
+	},
+	{
+		"R": 124,
+		"B": 217,
+		"G": 158,
+		"name": "Vista blue"
+	},
+	{
+		"R": 204,
+		"B": 0,
+		"G": 153,
+		"name": "Vivid amber"
+	},
+	{
+		"R": 146,
+		"B": 36,
+		"G": 39,
+		"name": "Vivid auburn"
+	},
+	{
+		"R": 159,
+		"B": 53,
+		"G": 29,
+		"name": "Vivid burgundy"
+	},
+	{
+		"R": 218,
+		"B": 129,
+		"G": 29,
+		"name": "Vivid cerise"
+	},
+	{
+		"R": 0,
+		"B": 238,
+		"G": 170,
+		"name": "Vivid cerulean"
+	},
+	{
+		"R": 204,
+		"B": 51,
+		"G": 0,
+		"name": "Vivid crimson"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 153,
+		"name": "Vivid gamboge"
+	},
+	{
+		"R": 166,
+		"B": 8,
+		"G": 214,
+		"name": "Vivid lime green"
+	},
+	{
+		"R": 0,
+		"B": 51,
+		"G": 204,
+		"name": "Vivid malachite"
+	},
+	{
+		"R": 184,
+		"B": 227,
+		"G": 12,
+		"name": "Vivid mulberry"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 95,
+		"name": "Vivid orange"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 160,
+		"name": "Vivid orange peel"
+	},
+	{
+		"R": 204,
+		"B": 255,
+		"G": 0,
+		"name": "Vivid orchid"
+	},
+	{
+		"R": 255,
+		"B": 108,
+		"G": 0,
+		"name": "Vivid raspberry"
+	},
+	{
+		"R": 247,
+		"B": 26,
+		"G": 13,
+		"name": "Vivid red"
+	},
+	{
+		"R": 223,
+		"B": 36,
+		"G": 97,
+		"name": "Vivid red-tangelo"
+	},
+	{
+		"R": 0,
+		"B": 255,
+		"G": 204,
+		"name": "Vivid sky blue"
+	},
+	{
+		"R": 240,
+		"B": 39,
+		"G": 116,
+		"name": "Vivid tangelo"
+	},
+	{
+		"R": 255,
+		"B": 137,
+		"G": 160,
+		"name": "Vivid tangerine"
+	},
+	{
+		"R": 229,
+		"B": 36,
+		"G": 96,
+		"name": "Vivid vermilion"
+	},
+	{
+		"R": 159,
+		"B": 255,
+		"G": 0,
+		"name": "Vivid violet"
+	},
+	{
+		"R": 255,
+		"B": 2,
+		"G": 227,
+		"name": "Vivid yellow"
+	},
+	{
+		"R": 191,
+		"B": 238,
+		"G": 192,
+		"name": "Vodka"
+	},
+	{
+		"R": 206,
+		"B": 0,
+		"G": 255,
+		"name": "Volt"
+	},
+	{
+		"R": 52,
+		"B": 51,
+		"G": 178,
+		"name": "Wageningen Green"
+	},
+	{
+		"R": 0,
+		"B": 66,
+		"G": 66,
+		"name": "Warm black"
+	},
+	{
+		"R": 212,
+		"B": 249,
+		"G": 241,
+		"name": "Water"
+	},
+	{
+		"R": 240,
+		"B": 133,
+		"G": 92,
+		"name": "Watermelon"
+	},
+	{
+		"R": 191,
+		"B": 71,
+		"G": 65,
+		"name": "Watermelon red"
+	},
+	{
+		"R": 164,
+		"B": 249,
+		"G": 244,
+		"name": "Waterspout"
+	},
+	{
+		"R": 124,
+		"B": 171,
+		"G": 152,
+		"name": "Weldon Blue"
+	},
+	{
+		"R": 100,
+		"B": 82,
+		"G": 84,
+		"name": "Wenge"
+	},
+	{
+		"R": 245,
+		"B": 179,
+		"G": 222,
+		"name": "Wheat"
+	},
+	{
+		"R": 255,
+		"B": 255,
+		"G": 255,
+		"name": "White"
+	},
+	{
+		"R": 237,
+		"B": 214,
+		"G": 230,
+		"name": "White chocolate"
+	},
+	{
+		"R": 230,
+		"B": 212,
+		"G": 224,
+		"name": "White coffee"
+	},
+	{
+		"R": 245,
+		"B": 245,
+		"G": 245,
+		"name": "White smoke"
+	},
+	{
+		"R": 162,
+		"B": 208,
+		"G": 173,
+		"name": "Wild blue yonder"
+	},
+	{
+		"R": 212,
+		"B": 162,
+		"G": 112,
+		"name": "Wild orchid"
+	},
+	{
+		"R": 255,
+		"B": 164,
+		"G": 67,
+		"name": "Wild Strawberry"
+	},
+	{
+		"R": 252,
+		"B": 133,
+		"G": 108,
+		"name": "Wild watermelon"
+	},
+	{
+		"R": 253,
+		"B": 0,
+		"G": 88,
+		"name": "Willpower orange"
+	},
+	{
+		"R": 167,
+		"B": 2,
+		"G": 85,
+		"name": "Windsor tan"
+	},
+	{
+		"R": 114,
+		"B": 55,
+		"G": 47,
+		"name": "Wine"
+	},
+	{
+		"R": 103,
+		"B": 71,
+		"G": 49,
+		"name": "Wine dregs"
+	},
+	{
+		"R": 177,
+		"B": 38,
+		"G": 18,
+		"name": "Wine red"
+	},
+	{
+		"R": 255,
+		"B": 124,
+		"G": 0,
+		"name": "Winter Sky"
+	},
+	{
+		"R": 160,
+		"B": 255,
+		"G": 230,
+		"name": "Winter Wizard"
+	},
+	{
+		"R": 86,
+		"B": 125,
+		"G": 136,
+		"name": "Wintergreen Dream"
+	},
+	{
+		"R": 201,
+		"B": 220,
+		"G": 160,
+		"name": "Wisteria"
+	},
+	{
+		"R": 193,
+		"B": 107,
+		"G": 154,
+		"name": "Wood brown"
+	},
+	{
+		"R": 115,
+		"B": 120,
+		"G": 134,
+		"name": "Xanadu"
+	},
+	{
+		"R": 15,
+		"B": 146,
+		"G": 77,
+		"name": "Yale Blue"
+	},
+	{
+		"R": 28,
+		"B": 65,
+		"G": 40,
+		"name": "Yankees blue"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 255,
+		"name": "Yellow"
+	},
+	{
+		"R": 252,
+		"B": 131,
+		"G": 232,
+		"name": "Yellow (Crayola)"
+	},
+	{
+		"R": 239,
+		"B": 0,
+		"G": 204,
+		"name": "Yellow (Munsell)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 211,
+		"name": "Yellow (NCS)"
+	},
+	{
+		"R": 254,
+		"B": 0,
+		"G": 223,
+		"name": "Yellow (Pantone)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 239,
+		"name": "Yellow (process)"
+	},
+	{
+		"R": 254,
+		"B": 51,
+		"G": 254,
+		"name": "Yellow (RYB)"
+	},
+	{
+		"R": 154,
+		"B": 50,
+		"G": 205,
+		"name": "Yellow-green"
+	},
+	{
+		"R": 197,
+		"B": 132,
+		"G": 227,
+		"name": "Yellow-green (Crayola)"
+	},
+	{
+		"R": 48,
+		"B": 26,
+		"G": 178,
+		"name": "Yellow-green (Color Wheel)"
+	},
+	{
+		"R": 255,
+		"B": 66,
+		"G": 174,
+		"name": "Yellow Orange"
+	},
+	{
+		"R": 255,
+		"B": 5,
+		"G": 149,
+		"name": "Yellow Orange (Color Wheel)"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 240,
+		"name": "Yellow rose"
+	},
+	{
+		"R": 255,
+		"B": 0,
+		"G": 247,
+		"name": "Yellow Sunshine"
+	},
+	{
+		"R": 46,
+		"B": 144,
+		"G": 80,
+		"name": "YInMn Blue"
+	},
+	{
+		"R": 0,
+		"B": 168,
+		"G": 20,
+		"name": "Zaffre"
+	},
+	{
+		"R": 44,
+		"B": 8,
+		"G": 22,
+		"name": "Zinnwaldite brown"
+	},
+	{
+		"R": 57,
+		"B": 142,
+		"G": 167,
+		"name": "Zomp"
+	}
+]
